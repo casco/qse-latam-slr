@@ -1,4 +1,5 @@
 import pandas as pd
+import string
 
 LATAM_COUNTRIES = ['Belize',
                    'Costa Rica',
@@ -56,3 +57,11 @@ def detect_countries(text):
 
 def inject_detected_countries_to(dfs):
     dfs['countries'] = dfs['affiliations'].apply(detect_countries)
+
+
+def mark_duplicates_in(df):
+    df['title_canonical'] = (df['title'].str.lower().str.replace(' ', '', regex=True)
+                             .str.replace('[{}]'.format(string.punctuation), '', regex=True))
+    df_duplicates = df[df['title_canonical'].duplicated(keep=False)]
+    df['is_duplicate'] = ''
+    df.loc[df_duplicates.index, 'is_duplicate'] = 'duplicate'
