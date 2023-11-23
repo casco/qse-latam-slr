@@ -1,4 +1,5 @@
 import pandas as pd
+import re
 import string
 
 LATAM_COUNTRIES = ['Belize',
@@ -12,6 +13,7 @@ LATAM_COUNTRIES = ['Belize',
                    'Argentina',
                    'Bolivia',
                    'Brazil',
+                   'Brasil',
                    'Chile',
                    'Colombia',
                    'Ecuador',
@@ -51,7 +53,8 @@ def df_from_scopus_csv_file(file):
 
 
 def detect_countries(text):
-    detected_countries = [country for country in LATAM_COUNTRIES if country in text]
+    text = re.sub(re.escape('Brasil'), 'Brazil', text, flags=re.IGNORECASE)
+    detected_countries = [country for country in LATAM_COUNTRIES if country.lower() in text.lower()]
     return detected_countries
 
 
