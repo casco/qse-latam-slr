@@ -37,18 +37,24 @@ LATAM_COUNTRIES = ['Belize',
 def df_from_ieee_csv_file(file):
     ieee_df = pd.read_csv(file)
     ieee_df = ieee_df.filter(
-        items=['Document Title', 'Authors', 'Author Affiliations', 'Publication Title', 'Publication Year', 'Abstract'], axis=1)
+        items=['Document Title', 'DOI', 'Authors', 'Author Affiliations', 'Publication Title', 'Publication Year',
+               'Document Identifier', 'PDF Link', 'Abstract'], axis=1)
     ieee_df.rename(inplace=True,
-                   columns={'Document Title': 'title', 'Authors': 'authors', 'Author Affiliations': 'affiliations',
-                            'Publication Title': 'publication', 'Publication Year': 'year', 'Abstract': 'abstract'})
+                   columns={'Document Title': 'title', 'DOI': 'DOI', 'Authors': 'authors',
+                            'Author Affiliations': 'affiliations', 'Publication Title': 'publication',
+                            'Publication Year': 'year', 'Document Identifier': 'type', 'PDF Link': 'link',
+                            'Abstract': 'abstract'})
     return ieee_df
 
 
 def df_from_scopus_csv_file(file):
     scopus_df = pd.read_csv(file)
-    scopus_df = scopus_df.filter(items=['Title', 'Authors', 'Affiliations', 'Source Title', 'Year', 'Abstract'], axis=1)
-    scopus_df.rename(inplace=True, columns={'Title': 'title', 'Authors': 'authors', 'Affiliations': 'affiliations',
-                                            'Source Title': 'publication', 'Year': 'year', 'Abstract': 'abstract'})
+    scopus_df = scopus_df.filter(items=['Title', 'DOI', 'Authors', 'Affiliations', 'Source Title', 'Year',
+                                        'Document Type', 'Link', 'Abstract'], axis=1)
+    scopus_df.rename(inplace=True, columns={'Title': 'title', 'DOI': 'DOI', 'Authors': 'authors',
+                                            'Affiliations': 'affiliations', 'Source Title': 'publication',
+                                            'Year': 'year', 'Document Type': 'type', 'Link': 'link',
+                                            'Abstract': 'abstract'})
     return scopus_df
 
 
