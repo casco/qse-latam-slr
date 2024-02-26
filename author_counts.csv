@@ -1,0 +1,3559 @@
+,author,count
+0,venegas-andraca s.e.,22
+1,da silva a.j.,21
+2,portugal r.,18
+3,de oliveira w.r.,17
+4,ludermir t.b.,14
+5,díaz-caro a.,13
+6,de paula neto f.m.,12
+7,nieto-chaupis h.,11
+8,aquilanti v.,10
+9,lavor c.,10
+10,reiser r.,10
+11,nacif j.a.m.,10
+12,neto o.p.v.,10
+13,avila a.,9
+14,vellasco m.,9
+15,yakaryilmaz a.,9
+16,vellasco m.m.b.r.,8
+17,maziero j.,8
+18,yan f.,8
+19,reiser r.h.s.,8
+20,dias d.m.,8
+21,de lima marquezino f.,7
+22,vizzotto j.k.,7
+23,la guardia g.g.,7
+24,pilla m.l.,7
+25,ramos r.v.,7
+26,delgado f.,7
+27,montiel o.,7
+28,pilla m.,7
+29,ferreira t.a.e.,6
+30,de almeida a.a.a.,6
+31,terada r.,6
+32,ferreira r.s.,6
+33,abd-el-atty b.,6
+34,drechsler r.,6
+35,otsuki a.,6
+36,villagra m.,6
+37,yamin a.c.,6
+38,rodríguez-henríquez f.,6
+39,mogos g.,6
+40,freytes h.,6
+41,vilela neto o.p.,6
+42,sergioli g.,6
+43,livotto p.r.,6
+44,de assis f.m.,6
+45,sambrano j.r.,5
+46,holik f.,5
+47,de souza l.s.,5
+48,de carvalho j.h.a.,5
+49,m. p. pires,5
+50,lópez j.,5
+51,pacheco m.a.c.,5
+52,poltev v.,5
+53,r. sotelo,5
+54,pereira f.r.f.,5
+55,prampolini g.,5
+56,dueck g.w.,5
+57,maron a.,5
+58,yakaryılmaz a.,5
+59,j. a. ardila-rey,5
+60,sciarrino f.,5
+61,estrin d.a.,4
+62,wille r.,4
+63,g. m. penello,4
+64,p. l. souza,4
+65,wahid k.a.,4
+66,palazzetti f.,4
+67,lombardi a.,4
+68,spagnolo n.,4
+69,rocha g.b.,4
+70,delgado a.,4
+71,bahar a.n.,4
+72,cacelli i.,4
+73,brod d.j.,4
+74,vahabi m.,4
+75,nedjah n.,4
+76,bayro-corrochano e.,4
+77,da silva a.c.r.,4
+78,piveta e.k.,4
+79,lameira j.,4
+80,hirota k.,4
+81,castillo o.,4
+82,torres f.s.,4
+83,malherbe o.,4
+84,deriabina a.,4
+85,verbel j.,4
+86,pinheiro s.,4
+87,barán b.,4
+88,borges f.,4
+89,abd el-latif a.a.,4
+90,wang j.,4
+91,niemann p.,4
+92,chaves j.f.,4
+93,lanzagorta m.,4
+94,s. govindarajan,4
+95,silva j.r.a.,4
+96,cruz-aceves i.,4
+97,roitberg a.e.,4
+98,da silva e.b.,3
+99,de albuquerque c.d.,3
+100,r. iuzzolino,3
+101,mazurczyk w.,3
+102,moraga c.,3
+103,uhlmann j.,3
+104,barrientos-salcedo c.,3
+105,el-latif a.a.a.,3
+106,foglia n.o.,3
+107,koshiyama a.s.,3
+108,soriano-correa c.,3
+109,p. h. pereira,3
+110,greff da silveira l.,3
+111,custódio r.,3
+112,longo e.,3
+113,de avila a.b.,3
+114,m. g. clerc,3
+115,s. barbay,3
+116,grillo i.b.,3
+117,kreinovich v.,3
+118,smith-tone d.,3
+119,b. a. de castro,3
+120,basso m.l.w.,3
+121,loques o.,3
+122,solano e.,3
+123,ragni m.,3
+124,bitencourt a.c.p.,3
+125,monteiro c.a.,3
+126,moqadam j.k.,3
+127,lyakhov p.,3
+128,huguenin j.a.o.,3
+129,lara-nino c.a.,3
+130,t. l. frantz,3
+131,gargano r.,3
+132,sotelo r.,3
+133,deffner s.,3
+134,borosky g.l.,3
+135,ramírez-velásquez j.m.,3
+136,yamin a.,3
+137,souza a.m.,3
+138,plastino a.,3
+139,mendes f.v.,3
+140,perez-garcia b.,3
+141,köster a.m.,3
+142,calaminici p.,3
+143,forbes a.,3
+144,hernandez-aranda r.i.,3
+145,pereira f.m.q.,3
+146,lizama-pérez l.a.,3
+147,diaz-perez a.,3
+148,cabarcas d.,3
+149,morales-sandoval m.,3
+150,de macedo mourelle l.,3
+151,chi-domínguez j.-j.,3
+152,civitarese d.,3
+153,szwarcman d.,3
+154,ospina j.,3
+155,fernandez-alberti s.,3
+156,borges l.r.,3
+157,tretiak s.,3
+158,du bois a.r.,3
+159,silva d.s.,3
+160,santos r.f.,3
+161,gonzalez e.,3
+162,vieira m.a.c.,3
+163,gupta d.,3
+164,valiron b.,3
+165,de veras t.m.l.,3
+166,ruiz-pinales j.,3
+167,magaña-loaiza o.s.,3
+168,avina-cervantes j.g.,3
+169,pereira c.s.,3
+170,ovalle-magallanes e.,3
+171,dowek g.,3
+172,park d.k.,3
+173,r. jakomin,3
+174,c. kasmi,3
+175,a. banelli,3
+176,f. vega,3
+177,a. rangel,3
+178,m. almansoori,3
+179,iliyasu a.m.,3
+180,lima p.m.v.,3
+181,v. tulupenko,3
+182,verli h.,3
+183,o. fomina,3
+184,d. sushchenko,3
+185,c. duque,3
+186,r. demediuk,3
+187,v. akimov,3
+188,chaves r.,3
+189,guedes e.b.,3
+190,mera-adasme r.,3
+191,veloz t.,3
+192,fabris g.s.l.,3
+193,you c.,3
+194,canabarro a.,3
+195,ribas r.p.,3
+196,montanari c.a.,2
+197,brito s.,2
+198,costa v.l.r.d.,2
+199,schiabel h.,2
+200,sanz m.,2
+201,curtarolo s.,2
+202,almeida f.a.g.,2
+203,lu k.,2
+204,martin a.,2
+205,siraichi m.y.,2
+206,balthazar w.f.,2
+207,correa r.,2
+208,dos santos v.f.,2
+209,lopez j.,2
+210,gallegos-garcia g.,2
+211,anisimov v.m.,2
+212,dominguez v.,2
+213,garcia d.,2
+214,hildenbrand d.,2
+215,khanna a.,2
+216,oliveira b.g.,2
+217,ortiz-mahecha c.a.,2
+218,gomez v.,2
+219,visintin l.,2
+220,l. de s. menezes,2
+221,baena j.,2
+222,wong b.m.,2
+223,rojas f.,2
+224,piat m.,2
+225,ribeiro m.v.,2
+226,maidment a.d.a.,2
+227,chavez-saab j.,2
+228,costa m.,2
+229,c. g. galarza,2
+230,bakic p.r.,2
+231,suárez c.f.,2
+232,alves r.,2
+233,wang h.,2
+234,patarroyo m.e.,2
+235,calegaro b.c.,2
+236,patarroyo m.a.,2
+237,zhou j.,2
+238,steinmetz c.,2
+239,agudelo w.a.,2
+240,dueck g.,2
+241,rivas f.,2
+242,filho d.a.s.,2
+243,carvalho i.a.,2
+244,krein g.,2
+245,hrdina j.,2
+246,lópez-romero j.m.,2
+247,ferreira r.,2
+248,gonzález f.a.,2
+249,de santiago r.,2
+250,jaramillo-villegas j.a.,2
+251,fornari m.,2
+252,rubio y.,2
+253,salahub d.r.,2
+254,tchagang a.,2
+255,hiran k.k.,2
+256,alvarado-carrillo d.e.,2
+257,hostaš j.,2
+258,albuquerque e.l.,2
+259,herrera l.b.,2
+260,fulco u.l.,2
+261,lourenço m.p.,2
+262,sarthour r.s.,2
+263,oliveira i.s.,2
+264,scherlis d.a.,2
+265,m. vellasco,2
+266,sharma n.k.,2
+267,gonzález lebrero m.c.,2
+268,alves c.n.,2
+269,oliveira j.i.n.,2
+270,martinez-santos j.c.,2
+271,ribeiro m.a.,2
+272,formigoni r.e.,2
+273,romero a.h.,2
+274,bruni a.t.,2
+275,buongiorno nardelli m.,2
+276,lópez j.m.,2
+277,bousquet e.,2
+278,s. blawid,2
+279,doshi r.,2
+280,yamijala s.s.r.k.c.,2
+281,de lima bernardo b.,2
+282,sharma s.s.,2
+283,rodrigues c.h.p.,2
+284,giuntini r.,2
+285,t. escovedo,2
+286,quiles m.g.,2
+287,da silva j.l.f.,2
+288,galvao e.f.,2
+289,tsallis c.,2
+290,alejandre j.,2
+291,farias s.a.s.,2
+292,anota e.c.,2
+293,a. j. da silva,2
+294,zamora w.j.,2
+295,camacho-mendoza r.l.,2
+296,li f.,2
+297,zhao j.,2
+298,gómez-castro c.z.,2
+299,rodriguez-henriquez f.,2
+300,ochoa-jimenez e.,2
+301,kuznetsov a.e.,2
+302,oliveira d.,2
+303,giusto e.,2
+304,dri e.,2
+305,casciola n.,2
+306,martinez i.,2
+307,cárdenas-lópez f.a.,2
+308,retamal j.c.,2
+309,marzuoli a.,2
+310,silva a.,2
+311,montrucchio b.,2
+312,rech p.,2
+313,durini d.,2
+314,monteiro a.,2
+315,r. schurch,2
+316,l. c. faria,2
+317,cruz-borbolla j.,2
+318,filho g.i.s.,2
+319,bentes c.,2
+320,l. c. azevedo,2
+321,da silva c.p.,2
+322,xavier g.b.,2
+323,lima g.,2
+324,fernandes p.b.,2
+325,martins m.g.a.,2
+326,callegaro v.,2
+327,bagnato v.s.,2
+328,r. g. lins,2
+329,da cruz a.v.a.,2
+330,fonseca neto j.v.,2
+331,bedoya-ríos p.,2
+332,bechtold s.,2
+333,reis a.i.,2
+334,serna s.,2
+335,sepúlveda r.,2
+336,jitrik o.,2
+337,francisco-márquez m.,2
+338,de la luz a.p.,2
+339,sainz-díaz c.i.,2
+340,monteiro a.f.,2
+341,bochicchio r.c.,2
+342,lobayan r.m.,2
+343,gonzalez f.a.,2
+344,p. tovar,2
+345,s. y. c. catunda,2
+346,reis r.,2
+347,o. muñoz,2
+348,m. t. f. da silva,2
+349,martins j.b.l.,2
+350,osenda o.,2
+351,monteiro n.d.k.v.,2
+352,fonseca de oliveira a.l.,2
+353,andrade e.r.,2
+354,m. bierzychudek,2
+355,n. li,2
+356,roca-sanjuán d.,2
+357,ferrusca d.,2
+358,viayna a.,2
+359,hernández e.,2
+360,ocegueda m.,2
+361,vilhena j.g.,2
+362,fontes g.,2
+363,i. de leon,2
+364,martí m.a.,2
+365,silva p.a.,2
+366,casillas n.,2
+367,auccaise r.,2
+368,stepanov s.,2
+369,velazquez m.,2
+370,sill torres f.,2
+371,passos m.h.m.,2
+372,pellikaan r.,2
+373,de bernardis p.,2
+374,pereira d.,2
+375,velumani s.,2
+376,strachan g.c.,2
+377,y. li,2
+378,reyes a.,2
+379,konrad t.,2
+380,vieira m.a.m.,2
+381,ferrer m.m.,2
+382,roversi j.a.,2
+383,carrillo-bohórquez o.,2
+384,a. jorio,2
+385,prosmiti r.,2
+386,i. f. araujo,2
+387,a. s. l. gomes,2
+388,e. m. spinelli,2
+389,m. a. haberman,2
+390,f. n. guerrero,2
+391,p. a. garcía,2
+392,vieira l.f.m.,2
+393,canuto s.,2
+394,zwick a.,2
+395,bezerra l.l.,2
+396,sierra-sosa d.,2
+397,álvarez g.a.,2
+398,lalinde-pulido j.g.,2
+399,giraldo-quintero a.,2
+400,l. palafox,2
+401,r. behr,2
+402,correia a.n.,2
+403,de lima-neto p.,2
+404,stolze j.,2
+405,i. c. s. araújo,2
+406,da silva l.d.,2
+407,gradziel m.,2
+408,ossandón s.,2
+409,louis t.,2
+410,maffei b.,2
+411,marty w.,2
+412,mattei a.,2
+413,feregrino-uribe c.,2
+414,singh r.,2
+415,say a.c.c.,2
+416,santos a.c.,2
+417,mele l.,2
+418,p. m. sarro,2
+419,zeida a.,2
+420,lamagna l.,2
+421,montier l.,2
+422,shur a.m.,2
+423,mundo l.m.,2
+424,murphy j.a.,2
+425,eriksson l.a.,2
+426,murphy j.d.,2
+427,mataloni p.,2
+428,gómez berisso m.,2
+429,macías-díaz j.e.,2
+430,dutra i.,2
+431,loucatos s.,2
+432,kristukat c.,2
+433,gayer d.,2
+434,carvalho-silva v.h.,2
+435,rahimi e.,2
+436,rabelo r.,2
+437,gervasi m.,2
+438,moreno g.,2
+439,nery r.,2
+440,giard m.,2
+441,bakke k.,2
+442,barreto p.s.l.m.,2
+443,solis-gamboa s.,2
+444,ballester-bolinches a.,2
+445,grillo s.a.,2
+446,anconi c.p.a.,2
+447,cañadas a.m.,2
+448,sarandy m.s.,2
+449,maciel t.o.,2
+450,plata-cesar n.,2
+451,harari d.,2
+452,chaurra-gutierrez f.a.,2
+453,incardona f.,2
+454,jules e.,2
+455,holik f.h.,2
+456,kaplan j.,2
+457,misoczki r.,2
+458,i. soto,2
+459,oliveira l.b.,2
+460,tucker c.,2
+461,m. mastrangeli,2
+462,schillaci a.,2
+463,s. venkatraman,2
+464,vieira m.d.,2
+465,scully s.,2
+466,spinelli s.,2
+467,alegre t.p.m.,2
+468,stolpovskiy m.,2
+469,timbie p.,2
+470,marinelli d.,2
+471,tucker g.,2
+472,paiella a.,2
+473,walter m.,2
+474,vittorio n.,2
+475,wicek f.,2
+476,coutinho n.d.,2
+477,zullo a.,2
+478,vaz e.c.,2
+479,n,2
+480,r. v. ramos,2
+481,gainutdinova a.,2
+482,lopez-montiel m.,2
+483,romero g.e.,2
+484,ringegni p.,2
+485,d. oliveira,2
+486,rambaud d.,2
+487,pajot f.,2
+488,rodriguez-gomez g.,2
+489,passerini a.,2
+490,pastoriza h.,2
+491,pelosi a.,2
+492,perbost c.,2
+493,marquezino f.l.,2
+494,urquiza-carvalho g.a.,2
+495,k. alfaro-bittner,2
+496,singh a.,2
+497,pezzotta f.,2
+498,r. braive,2
+499,lopez-acevedo o.,2
+500,piacentini f.,2
+501,piccirillo l.,2
+502,pisano g.,2
+503,poderini d.,2
+504,l. a. chipana,2
+505,polenta g.,2
+506,provasi p.f.,2
+507,puddu r.,2
+508,lopez d.a.,2
+509,a. tiutiunnyk,2
+510,gaspard m.,2
+511,bachega j.f.r.,2
+512,caglioti c.,2
+513,rodríguez-lara b.m.,2
+514,amico g.,2
+515,pirani f.,2
+516,figueiredo k.,2
+517,auguste d.,2
+518,aumont j.,2
+519,ruiz a.,2
+520,banfi s.,2
+521,martí l.,2
+522,de souza g.l.c.,2
+523,bunn e.,2
+524,bennett d.,2
+525,brown a.,2
+526,j. velasco-medina,2
+527,munuera c.,2
+528,aerts d.,2
+529,ruffinelli d.,2
+530,baran b.,2
+531,bersanelli m.,2
+532,bigot-sazy m.-a.,2
+533,bonaparte j.,2
+534,pereira l.,2
+535,ade p.,2
+536,zannoni m.,2
+537,voisin f.,2
+538,geffert v.,2
+539,de petris m.,2
+540,grandsire l.,2
+541,napolitano h.b.,2
+542,hamilton j.-c.,2
+543,de la lande a.,2
+544,marnieros s.,2
+545,masi s.,2
+546,sozzo s.,2
+547,d. vasileska,2
+548,mennella a.,2
+549,schirru r.,2
+550,paiva t.b.,2
+551,supka a.r.,2
+552,beltran l.,2
+553,ballinas e.,2
+554,cerasoli f.t.,2
+555,duzzioni e.i.,2
+556,tartari a.,2
+557,león-montiel r.j.,2
+558,torchinsky s.a.,2
+559,furtado c.,2
+560,bonis j.,2
+561,burke d.,2
+562,de leo m.,2
+563,buzi d.,2
+564,flores-moreno r.,2
+565,p. rech,2
+566,ramos a.c.,2
+567,santos c.b.r.,2
+568,dumoulin l.,2
+569,etchegoyen a.,2
+570,fasciszewski a.,2
+571,song h.,2
+572,g. puentes,2
+573,freixas v.m.,2
+574,franceschet c.,2
+575,gamboa lerena m.m.,2
+576,fanchini f.f.,2
+577,aguiar a.,2
+578,orenha r.p.,2
+579,d. laroze,2
+580,raposo s.,2
+581,schmalfuss m.,2
+582,a. morales,2
+583,li y.,2
+584,pereira d.h.,2
+585,zhang y.,2
+586,neto f.m.d.p.,2
+587,tillich j.-p.,2
+588,cavaliere f.,2
+589,chanial p.,2
+590,chapron c.,2
+591,m. stiemer,2
+592,d. r. souza,2
+593,charlassier r.,2
+594,coletti c.,2
+595,l. o. fichte,2
+596,arruda m.s.,2
+597,villas-boas c.j.,2
+598,columbro f.,2
+599,g. m. torelly,2
+600,coppolecchia a.,2
+601,mukamel s.,2
+602,silva c.,2
+603,de gasperis g.,2
+604,perlner r.,2
+605,de oliveira a.k.d.s.,2
+606,galembeck s.e.,2
+607,wing-bocanegra a.,2
+608,knoll l.t.,1
+609,villanueva vergara l.,1
+610,theisen m.,1
+611,assaf a.,1
+612,tsatsos m.c.,1
+613,beinke r.,1
+614,perdrix s.,1
+615,streltsova o.i.,1
+616,alon o.e.,1
+617,hen i.,1
+618,coulamy i.b.,1
+619,leitão a.a.,1
+620,quirino w.g.,1
+621,machado f.c.,1
+622,tavares s.r.,1
+623,brouzos i.,1
+624,marques l.f.,1
+625,larotonda m.a.,1
+626,calarco t.,1
+627,caneva t.,1
+628,schmiegelow c.t.,1
+629,cederbaum l.s.,1
+630,kasevich m.a.,1
+631,martins m.j.f.,1
+632,wells t.,1
+633,tarrataca l.,1
+634,klaiman s.,1
+635,lode a.u.j.,1
+636,montangero s.,1
+637,lara p.c.s.,1
+638,negretti a.,1
+639,demirci h.g.,1
+640,said r.s.,1
+641,tasson c.,1
+642,sakmann k.,1
+643,weiner s.e.,1
+644,rao g.v.e.,1
+645,streltsov a.i.,1
+646,endress e.,1
+647,alexandrov v.,1
+648,carbó-dorca r.,1
+649,barragán d.,1
+650,silva m.,1
+651,koshiyama a.,1
+652,cataldo e.,1
+653,ávila a.,1
+654,pena c.,1
+655,gurov t.,1
+656,sivalingam k.,1
+657,dos santos l.c.,1
+658,bilar g.r.,1
+659,dacencio pereira f.,1
+660,mata-montero e.,1
+661,carranza-rojas j.,1
+662,reis d.a.,1
+663,karaivanova a.,1
+664,vicari r.g.,1
+665,cupertino l.f.,1
+666,mena-contla a.,1
+667,gioannini m.,1
+668,cappelluti f.,1
+669,cappelletti m.,1
+670,peltzer y blanca e.,1
+671,campos c.a.t.,1
+672,marciano a.l.,1
+673,raitz c.,1
+674,peña-moreno r.,1
+675,de oliveira l.m.f.,1
+676,morales-lara l.,1
+677,serkin v.n.,1
+678,belyaeva t.l.,1
+679,sardinha l.h.b.,1
+680,zabardasti a.,1
+681,goudarziafshar h.,1
+682,salehnassaj m.,1
+683,briët j.,1
+684,de oliveira filho f.m.,1
+685,vallentin f.,1
+686,enevoldsen t.,1
+687,boman l.,1
+688,christiansen o.,1
+689,cimiraglia r.,1
+690,coriani s.,1
+691,dahle p.,1
+692,dalskov e.k.,1
+693,ekström u.,1
+694,eriksen j.j.,1
+695,camargos v.v.,1
+696,ettenhuber p.,1
+697,fernández b.,1
+698,ferrighi l.,1
+699,fliegl h.,1
+700,frediani l.,1
+701,hald k.,1
+702,halkier a.,1
+703,bast r.,1
+704,bakken v.,1
+705,bak k.l.,1
+706,angeli c.,1
+707,rivera a.,1
+708,gonzalez-henao j.c.,1
+709,subero d.,1
+710,luiggi n.,1
+711,fassarella l.,1
+712,reymer j.m.a.,1
+713,valdivia y.j.t.,1
+714,echeverría e.,1
+715,guaregua j.a.,1
+716,scott p.,1
+717,selinger p.,1
+718,iemini f.,1
+719,debarba t.,1
+720,vianna r.o.,1
+721,aidas k.,1
+722,cedola a.,1
+723,jara g.e.,1
+724,wiesman s.,1
+725,da feitosa s.,1
+726,possignolo r.t.,1
+727,margi c.b.,1
+728,parra-murillo c.a.,1
+729,madroñero j.,1
+730,wimberger s.,1
+731,chire saire j.e.,1
+732,túpac v.y.j.,1
+733,lopes j.f.,1
+734,martins h.o.,1
+735,"nascimento c.s., jr.",1
+736,santos h.f.d.,1
+737,almeida w.b.d.,1
+738,santos r.a.m.,1
+739,fazzion e.,1
+740,fonseca o.l.h.m.,1
+741,fernandes a.o.,1
+742,nascimento a.c.a.,1
+743,ramírez-velasquez j.m.,1
+744,ramírez c.l.,1
+745,roa l.,1
+746,muñoz e.,1
+747,peña f.j.,1
+748,francis j.,1
+749,mclaren m.,1
+750,goyal s.k.,1
+751,maldonado-trapp a.,1
+752,hu a.,1
+753,monteiro f.s.,1
+754,mendoza s. f.,1
+755,goya d.h.,1
+756,conceição c.,1
+757,cavalcanti pacheco m.a.,1
+758,flores-moreno j.m.,1
+759,de la torre i. m.h.,1
+760,hernández-montes m.s.,1
+761,pérez-lópez c.,1
+762,morales j.d.h.,1
+763,guerrero j.,1
+764,lópez-aguayo s.,1
+765,rogers r.,1
+766,white j.,1
+767,rippa m.,1
+768,labrie k.,1
+769,turner j.,1
+770,hanna k.,1
+771,lazo m.,1
+772,pérez g.,1
+773,rojas r.,1
+774,barufaldi b.,1
+775,placco v.,1
+776,murowinski r.,1
+777,marranghello f.s.,1
+778,pius e.,1
+779,kashefi e.,1
+780,da silva r.d.,1
+781,ambainis a.,1
+782,boucher l.,1
+783,hibon p.,1
+784,chiboucas k.,1
+785,roth k.,1
+786,gabarda s.,1
+787,pokrajac d.d.,1
+788,do rosário p.v.f.,1
+789,salles l.p.,1
+790,de mello a.s.b.,1
+791,de lima monteiro d.w.,1
+792,spiegel j.d.,1
+793,kleinschmidt m.,1
+794,larbig a.,1
+795,tatchen j.,1
+796,marian c.m.,1
+797,gonçalves d.s.,1
+798,gomes-ruggiero m.a.,1
+799,childs a.m.,1
+800,gimeno g.,1
+801,nahimov n.,1
+802,cortopassi w.a.,1
+803,venegas-andraca s.,1
+804,güneysu t.,1
+805,aguiar campos s.v.,1
+806,tenório w.,1
+807,torres f.,1
+808,ayala c.,1
+809,cvetič g.,1
+810,feitosa s.s.,1
+811,sánchez-gonzález á.,1
+812,martín-martínez f.j.,1
+813,dobado j.a.,1
+814,gueron s.,1
+815,persichetti e.,1
+816,borges sardinha l.h.,1
+817,sendrier n.,1
+818,de castro a.,1
+819,sanchez j.,1
+820,buenaño h.,1
+821,arias s.,1
+822,gomez h.,1
+823,hernández a.b.,1
+824,morales a.e.,1
+825,castro m.,1
+826,misini ignjatović m.,1
+827,orlandi v.b.,1
+828,moncada f.,1
+829,dong g.,1
+830,saenz-mendez p.,1
+831,romero j.o.,1
+832,fernández-fueyo e.,1
+833,avila-salas f.,1
+834,recabarren r.,1
+835,alzate-morales j.,1
+836,martínez a.t.,1
+837,cuadra j.,1
+838,ponce h.,1
+839,rudamas c.,1
+840,hörberg j.,1
+841,walter m.w.,1
+842,lebrero m.c.g.,1
+843,grose d.,1
+844,konno n.,1
+845,sato i.,1
+846,segawa e.,1
+847,majtey a.p.,1
+848,bussandri d.g.,1
+849,osán t.m.,1
+850,lamberti p.w.,1
+851,valdés-hernández a.,1
+852,morzan u.n.,1
+853,caldararu o.,1
+854,muñoz-gutierrez c.,1
+855,rinke p.,1
+856,delaveau m.,1
+857,applencourt t.,1
+858,audouze c.,1
+859,beuken j.-m.,1
+860,bieder j.,1
+861,bokhanchuk a.,1
+862,bruneval f.,1
+863,caliste d.,1
+864,côté m.,1
+865,dahm f.,1
+866,da pieve f.,1
+867,di gennaro m.,1
+868,adams d.,1
+869,dorado b.,1
+870,espejo c.,1
+871,geneste g.,1
+872,genovese l.,1
+873,gerossier a.,1
+874,giantomassi m.,1
+875,gillet y.,1
+876,hamann d.r.,1
+877,he l.,1
+878,jomard g.,1
+879,amadon b.,1
+880,abreu araujo f.,1
+881,adasme-carreño f.,1
+882,andricopulo a.d.,1
+883,ryde u.,1
+884,razera r.a.z.,1
+885,boudinov h.,1
+886,zanesco i.,1
+887,moehlecke a.,1
+888,littlejohn r.,1
+889,san gregorio l.r.,1
+890,vogt-geisse s.,1
+891,de souza a.s.,1
+892,de oliveira m.t.,1
+893,silveira h.b.,1
+894,jollet f.,1
+895,da silva p.s.p.,1
+896,rouchon p.,1
+897,da silveira l.r.,1
+898,tanscheit r.,1
+899,tun-rosado f.j.,1
+900,mena-rejón g.j.,1
+901,carballo r.m.,1
+902,mirón-lópez g.,1
+903,quijano-quiñones r.f.,1
+904,gonze x.,1
+905,chen x.,1
+906,makkonen e.,1
+907,le roux s.,1
+908,gaspar j.a.,1
+909,cortés-arriagada d.,1
+910,chigo anota e.,1
+911,cervantes-vázquez d.,1
+912,chenu m.,1
+913,de feo l.,1
+914,smith b.,1
+915,jacobs m.,1
+916,amargós-reyes o.,1
+917,romero-borja d.,1
+918,barreiro-arguëlles d.,1
+919,maldonado j.-l.,1
+920,rodríguez juárez a.,1
+921,sanchez j.a.,1
+922,nacif j.a.,1
+923,santos ferreira r.,1
+924,paranaiba vilela neto o.,1
+925,chaves j.,1
+926,villavicencio b.,1
+927,ligabue-braun r.,1
+928,garcía-melgarejo j.c.,1
+929,lozano-crisóstomo n.,1
+930,jesús escobedo-alatorre j.,1
+931,salazar villanueva m.,1
+932,merino g.,1
+933,torres-cisneros m.,1
+934,ferino-pérez a.,1
+935,neutzling a.,1
+936,sanches-neto f.o.,1
+937,dos santos p.,1
+938,araujo i.,1
+939,sousa r.,1
+940,faria m.h.r.,1
+941,da nobrega r.v.t.,1
+942,duarte u.r.,1
+943,melchor-rodríguez k.,1
+944,gamboa-carballo j.j.,1
+945,passé-coutrin n.,1
+946,zhao l.,1
+947,gaspard s.,1
+948,jáuregui-haza u.j.,1
+949,valdés á.,1
+950,paiva p.r.m.,1
+951,amaral j.f.m.,1
+952,domínguez-serna f.,1
+953,moreno m.g.m.,1
+954,fonseca a.,1
+955,cunha m.m.,1
+956,pan s.,1
+957,sánchez-pérez k.j.,1
+958,arroyo-rivera e.s.,1
+959,souza j.a.,1
+960,turney j.m.,1
+961,berquist e.j.,1
+962,lechner m.h.,1
+963,cunha l.a.,1
+964,heide a.g.,1
+965,waldrop j.m.,1
+966,takeshita t.y.,1
+967,alenaizan a.,1
+968,neuhauser d.,1
+969,king r.a.,1
+970,simmonett a.c.,1
+971,schaefer h.f.,1
+972,zhang b.,1
+973,evangelista f.a.,1
+974,deprince a.e.,1
+975,crawford t.d.,1
+976,patkowski k.,1
+977,sherrill c.d.,1
+978,moreira r.a.,1
+979,neves l.,1
+980,puentes g.,1
+981,oliveira r.r.,1
+982,borges h.s.,1
+983,abbott a.s.,1
+984,zhang t.,1
+985,guzmán-cabrera r.,1
+986,sassoli de bianchi m.,1
+987,salazar j.m.,1
+988,meneses-claudio b.,1
+989,santos z.t.,1
+990,roman-gonzalez a.,1
+991,caramori g.f.,1
+992,misturini a.,1
+993,maioli a.c.,1
+994,souza c.e.r.,1
+995,schmidt a.g.m.,1
+996,melucci m.,1
+997,dos santos r.f.,1
+998,schriber j.b.,1
+999,diniz e.c.,1
+1000,rossatto d.z.,1
+1001,faz-hernández a.,1
+1002,carneiro j.,1
+1003,smith d.g.a.,1
+1004,burns l.a.,1
+1005,sirianni d.a.,1
+1006,nascimento d.r.,1
+1007,kumar a.,1
+1008,james a.m.,1
+1009,laflamme janssen j.,1
+1010,levitt a.,1
+1011,guerrero m r.j.,1
+1012,maciel g.s.,1
+1013,castellanos a.,1
+1014,cuesta s.,1
+1015,medina i.,1
+1016,semião f.l.,1
+1017,alemán-castañeda l.a.,1
+1018,rosete-aguilar m.,1
+1019,frigori r.b.,1
+1020,caro m.a.,1
+1021,laurila t.,1
+1022,prudente f.v.,1
+1023,de souza f.j.,1
+1024,meneses l.,1
+1025,de mello f.l.,1
+1026,tronco-jurado u.,1
+1027,saucedo-flores e.,1
+1028,ruelas r.,1
+1029,lópez r.,1
+1030,alvarez-ramos m.e.,1
+1031,ayón a.a.,1
+1032,silva j.j.b.,1
+1033,duarte-filho g.c.,1
+1034,claro m.s.,1
+1035,morocho s.,1
+1036,garcía lópez de lacalle j.,1
+1037,welter g.s.,1
+1038,gull c.,1
+1039,laplante s.,1
+1040,laurière m.,1
+1041,nolin a.,1
+1042,roland j.,1
+1043,senno g.,1
+1044,heiberg h.,1
+1045,kumar k.,1
+1046,duarte f.,1
+1047,pimentel a.s.,1
+1048,paton r.s.,1
+1049,minkov m.t.,1
+1050,cohn i.,1
+1051,pereira e.g.,1
+1052,sousa p.r.m.,1
+1053,fonseca a.l.d.,1
+1054,nunes r.r.,1
+1055,braga v.m.l.,1
+1056,"comar m., jr.",1
+1057,alves r.j.,1
+1058,varotti f.d.p.,1
+1059,taranto a.g.,1
+1060,buksman e.,1
+1061,quivy a.a.,1
+1062,esquef p.a.a.,1
+1063,euclides h.o.,1
+1064,méndez-maldonado g.a.,1
+1065,santos m.f.,1
+1066,amaro de faria a.c.,1
+1067,zubov d.,1
+1068,volponi f.,1
+1069,khosravy m.,1
+1070,bednárová z.,1
+1071,reinhardt k.,1
+1072,medeiros r.a.c.,1
+1073,pedroso d.m.,1
+1074,passaro a.,1
+1075,núñez-rojas e.,1
+1076,orieux a.,1
+1077,bresme f.,1
+1078,duarte d.j.r.,1
+1079,angelina e.l.,1
+1080,peruchena n.m.,1
+1081,solano-altamirano j.m.,1
+1082,hernández-pérez j.m.,1
+1083,sun b.,1
+1084,dong f.,1
+1085,cariello d.,1
+1086,nakanishi m.,1
+1087,monken c.h.,1
+1088,cuevas a.,1
+1089,de oliveira r.l.f.,1
+1090,köster a.,1
+1091,cox c.e.,1
+1092,phifer j.r.,1
+1093,ferreira da silva l.,1
+1094,gonçalves nogueira g.,1
+1095,ley r.t.,1
+1096,o’loughlin e.j.,1
+1097,pereira barbosa a.k.,1
+1098,rygelski b.t.,1
+1099,paluch a.s.,1
+1100,clavaguéra c.,1
+1101,orozco-gonzalez y.,1
+1102,bernardes n.k.,1
+1103,manathunga m.,1
+1104,marín m.d.c.,1
+1105,agathangelou d.,1
+1106,jung k.-h.,1
+1107,melaccio f.,1
+1108,ferré n.,1
+1109,haacke s.,1
+1110,coutinho k.,1
+1111,olivucci m.,1
+1112,razeto p.,1
+1113,p. barreto p.r.,1
+1114,ayon a.,1
+1115,lherbier a.,1
+1116,graves c.,1
+1117,sales d.,1
+1118,rojas r.a.,1
+1119,luo w.,1
+1120,murray v.,1
+1121,lu y.m.,1
+1122,bruel p.,1
+1123,chalamalasetti s.r.,1
+1124,dalton c.,1
+1125,hajj i.e.,1
+1126,goldman a.,1
+1127,hwu w.-m.,1
+1128,fogel g.g.,1
+1129,laplante p.,1
+1130,milojicic d.,1
+1131,ndu g.,1
+1132,strachan j.p.,1
+1133,viana m.a.a.,1
+1134,araújo r.c.m.u.,1
+1135,neto j.a.m.,1
+1136,chame h.c.,1
+1137,pereira a.m.,1
+1138,solano j.r.,1
+1139,trindade a.,1
+1140,guerra a.g.a.h.,1
+1141,durán á.m.,1
+1142,shukri a.a.,1
+1143,liu f.,1
+1144,lukačević i.,1
+1145,martins c.,1
+1146,oliveira m.j.t.,1
+1147,poncé s.,1
+1148,pouillon y.,1
+1149,rangel t.,1
+1150,rignanese g.-m.,1
+1151,rousseau b.,1
+1152,rubel o.,1
+1153,stankovski m.,1
+1154,rios f.f.s.,1
+1155,torrent m.,1
+1156,van setten m.j.,1
+1157,van troeye b.,1
+1158,verstraete m.j.,1
+1159,waroquiers d.,1
+1160,wiktor j.,1
+1161,xu b.,1
+1162,zhou a.,1
+1163,zwanziger j.w.,1
+1164,lópez e.c.,1
+1165,baños a.t.,1
+1166,quiroz e.c.,1
+1167,álvarez-ramos m.e.,1
+1168,sánchez-soto l.,1
+1169,de mitri n.,1
+1170,aoto y.a.,1
+1171,de lima batista a.p.,1
+1172,köhn a.,1
+1173,de oliveira-filho a.g.s.,1
+1174,lemke a.,1
+1175,vieira j.,1
+1176,du bois a.,1
+1177,muñoz c.,1
+1178,klimov a.b.,1
+1179,sousa e.h.s.,1
+1180,roux f.s.,1
+1181,chen k.,1
+1182,reyes c.,1
+1183,cumsille p.,1
+1184,reyes c.m.,1
+1185,lopez-delgado r.,1
+1186,higuera-valenzuela h.j.,1
+1187,zazueta-raynaud a.,1
+1188,ramos-carrazco a.,1
+1189,pelayo j.e.,1
+1190,berman-mendoza d.,1
+1191,campetella m.,1
+1192,scholes s.,1
+1193,irisson m.c.,1
+1194,khathuria k.,1
+1195,guerrero i.,1
+1196,foi a.,1
+1197,zabaleta o.g.,1
+1198,araneda g.,1
+1199,cisternas n.,1
+1200,romero-meléndez c.,1
+1201,gonzález-santos l.,1
+1202,coutinho g.,1
+1203,godsil c.,1
+1204,escudero d.e.,1
+1205,gómez-téllez j.d.,1
+1206,nape i.,1
+1207,lluis-puebla e.,1
+1208,montiel m.,1
+1209,de sousa b.g.,1
+1210,amaro v.e.,1
+1211,blaha c.a.g.,1
+1212,fortin s.,1
+1213,bosyk g.,1
+1214,giri p.r.,1
+1215,korepin v.e.,1
+1216,ndagano b.,1
+1217,hättig c.,1
+1218,wilson r.c.,1
+1219,helgaker t.,1
+1220,p. kabos,1
+1221,c. abert,1
+1222,c. adelmann,1
+1223,a. o. adeyeye,1
+1224,j. åkerman,1
+1225,f. g. aliev,1
+1226,a. anane,1
+1227,a. awad,1
+1228,c. h. back,1
+1229,a. barman,1
+1230,g. e. w. bauer,1
+1231,m. becherer,1
+1232,e. n. beginin,1
+1233,v. a. s. v. bittencourt,1
+1234,y. m. blanter,1
+1235,p. bortolotti,1
+1236,i. boventer,1
+1237,d. a. bozhko,1
+1238,s. a. bunyaev,1
+1239,j. j. carmiggelt,1
+1240,r. r. cheenikundil,1
+1241,f. ciubotaru,1
+1242,m. wu,1
+1243,a. v. chumak,1
+1244,f. m. fernandes,1
+1245,m. a. g. de oliveira,1
+1246,j. a. tenorio,1
+1247,p. simmonds,1
+1248,a. a. quivy,1
+1249,o. m. pires,1
+1250,r. de santiago,1
+1251,j. marchi,1
+1252,d. neves,1
+1253,r. moura,1
+1254,a. a. da cruz,1
+1255,a. koshiyama,1
+1256,r. melo,1
+1257,a. v. a. da cruz,1
+1258,a. s. koshiyama,1
+1259,v. de morais alves,1
+1260,r. dowsley,1
+1261,r. t. de sousa,1
+1262,a. c. a. nascimento,1
+1263,m. claus,1
+1264,m. schröter,1
+1265,d. vieira,1
+1266,r. a. shayani,1
+1267,s. cotofana,1
+1268,g. csaba,1
+1269,o. v. dobrovolskiy,1
+1270,c. dubs,1
+1271,t. kikkawa,1
+1272,m. kläui,1
+1273,o. klein,1
+1274,j. w. kłos,1
+1275,s. knauer,1
+1276,s. koraltan,1
+1277,m. kostylev,1
+1278,m. krawczyk,1
+1279,i. n. krivorotov,1
+1280,v. v. kruglyak,1
+1281,d. lachance-quirion,1
+1282,s. ladak,1
+1283,r. lebrun,1
+1284,m. lindner,1
+1285,r. macêdo,1
+1286,s. mayr,1
+1287,g. a. melkov,1
+1288,s. mieszczak,1
+1289,y. nakamura,1
+1290,h. t. nembach,1
+1291,a. a. nikitin,1
+1292,r. khymyn,1
+1293,a. khitun,1
+1294,g. n. kakazei,1
+1295,k. guslienko,1
+1296,m. elyasi,1
+1297,k. g. fripp,1
+1298,h. fulara,1
+1299,i. a. golovchanskiy,1
+1300,c. gonzalez-ballestero,1
+1301,p. graczyk,1
+1302,d. grundler,1
+1303,p. gruszecki,1
+1304,g. gubbiotti,1
+1305,a. haldar,1
+1306,m. b. jungfleisch,1
+1307,s. hamdioui,1
+1308,r. hertel,1
+1309,b. hillebrands,1
+1310,t. hioki,1
+1311,a. houshang,1
+1312,c. . -m. hu,1
+1313,h. huebl,1
+1314,m. huth,1
+1315,e. iacocca,1
+1316,j. rushing,1
+1317,l. p. salles,1
+1318,v. novosad,1
+1319,r. malureanu,1
+1320,m. e. bierzychudek,1
+1321,a. tedesco,1
+1322,v. a. catacora,1
+1323,b. tilmann,1
+1324,g. grinblat,1
+1325,r. berté,1
+1326,m. p. nielson,1
+1327,e. cortès,1
+1328,a. i. kuznetsov,1
+1329,s. a. maier,1
+1330,l. zunino,1
+1331,a. locquet,1
+1332,b. kim,1
+1333,d. choi,1
+1334,w. pan,1
+1335,d. s. citrin,1
+1336,y. huang,1
+1337,p. zhou,1
+1338,m. s. torre,1
+1339,i. d. henning,1
+1340,m. j. adams,1
+1341,a. v. lavrinenko,1
+1342,j. sukham,1
+1343,ú. v. abecassis,1
+1344,o. takayama,1
+1345,w. f. silva,1
+1346,r. s. alencar,1
+1347,c. rabelo,1
+1348,c. a. achete,1
+1349,l. g. cançado,1
+1350,g. b. lucas,1
+1351,m. a. rocha,1
+1352,a. l. andreoli,1
+1353,n. m. poblete,1
+1354,m. p. cerda-luna,1
+1355,c. b. muñoz,1
+1356,t. b. karamat,1
+1357,s. n. givigi,1
+1358,a. noureldin,1
+1359,f. j. dos santos silva,1
+1360,c. e. t. dorea,1
+1361,a. c. van haandel,1
+1362,h. r. d. santos,1
+1363,c. i. vázquez,1
+1364,a. m. baruzzi,1
+1365,r. a. iglesias,1
+1366,r. sánchez-peña,1
+1367,a. tonina,1
+1368,d. drung,1
+1369,m. götz,1
+1370,j. aparicio,1
+1371,a. jiménez,1
+1372,f. j. álvarez,1
+1373,d. ruiz,1
+1374,c. de marziani,1
+1375,j. ureña,1
+1376,e. iaccheri,1
+1377,a. berardinelli,1
+1378,g. maggio,1
+1379,t. g. toschi,1
+1380,l. ragni,1
+1381,n. lópez,1
+1382,a. irizarry-rivera,1
+1383,e. o'neill-carrillo,1
+1384,t. key,1
+1385,a. w. schneider,1
+1386,w. g. daniel,1
+1387,c. f. g. souza,1
+1388,h. a. cordeiro,1
+1389,d. w. de lima monteiro,1
+1390,t. e. o. crespo,1
+1391,n. brambilla,1
+1392,c. schürrer,1
+1393,g. j. bergues,1
+1394,l. di lillo,1
+1395,r. lally,1
+1396,m. imboden,1
+1397,a. stange,1
+1398,l. k. barrett,1
+1399,d. j. perez-morelo,1
+1400,d. j. bishop,1
+1401,g. a. kyriazis,1
+1402,r. m. de souza,1
+1403,e. s. yasuda,1
+1404,a. altieri,1
+1405,p. marchi,1
+1406,m. bouza,1
+1407,j. a. maya,1
+1408,j. elaskar,1
+1409,m. a. luda,1
+1410,l. tozzetti,1
+1411,j. codnia,1
+1412,c. j. oton,1
+1413,f. messina,1
+1414,l. r. vega,1
+1415,s. a. nikitov,1
+1416,j. a. otálora,1
+1417,hennum a.c.,1
+1418,s. v. akram,1
+1419,j. m. ruiz-salazar,1
+1420,b. kanwer,1
+1421,r. singh,1
+1422,c. a. gonzález,1
+1423,j. p. ruiz,1
+1424,r. s. bonilla,1
+1425,a. g. ávila,1
+1426,j. pantoja,1
+1427,c. p. rentería-mejía,1
+1428,l. e. g. reyes,1
+1429,l. m. segura-gutierrez,1
+1430,j. e. ordoñez,1
+1431,g. zambrano,1
+1432,j. h. reina,1
+1433,j. -j. cabrera-lópez,1
+1434,h. f. velasco-peña,1
+1435,a. bonilla-riaño,1
+1436,c. m. santos,1
+1437,o. m. h. rodriguez,1
+1438,s. procz,1
+1439,g. roque,1
+1440,c. s. reddy,1
+1441,j. panduro-ramirez,1
+1442,d. wang,1
+1443,s. r. muniz,1
+1444,d. cabrera,1
+1445,c. li,1
+1446,a. boag,1
+1447,a. natan,1
+1448,p. poullet,1
+1449,g. slepyan,1
+1450,r. d. s. pereira,1
+1451,c. a. cima,1
+1452,w. l. silva,1
+1453,a. m. n. lima,1
+1454,a. oliveira,1
+1455,l. a. a. de souza,1
+1456,m. v. v. pinto,1
+1457,m. b. martins,1
+1458,a. c. s. lima,1
+1459,o. concepción,1
+1460,a. abelenda,1
+1461,m. sánchez,1
+1462,h. nieto-chaupis,1
+1463,l. n. s. de andrade,1
+1464,c. o. segura,1
+1465,c. avila,1
+1466,j. racedo,1
+1467,r. rueda,1
+1468,i. santos,1
+1469,h. zhang,1
+1470,r. p. zaccaria,1
+1471,t. wang,1
+1472,x. lin,1
+1473,h. chen,1
+1474,g. wang,1
+1475,j. baxter,1
+1476,a. c. lesina,1
+1477,l. ramunno,1
+1478,a. faz-mendoza,1
+1479,n. k. gamboa-rosales,1
+1480,c. e. medina-rodríguez,1
+1481,m. a. casas-valadez,1
+1482,a. castorena-robles,1
+1483,j. r. lópez-robles,1
+1484,j. c. mayo-maldonado,1
+1485,j. e. valdez-resendiz,1
+1486,d. guillen,1
+1487,m. bariya,1
+1488,a. von meier,1
+1489,e. a. salas-esquivel,1
+1490,j. sun,1
+1491,z. deng,1
+1492,a. shamray,1
+1493,m. a. t. monsalve,1
+1494,m. fiederle,1
+1495,j. c. alfonso-gil,1
+1496,s. orts-grau,1
+1497,n. muñoz-galeano,1
+1498,f. j. gimeno-sales,1
+1499,s. seguí-chilet,1
+1500,g. a. álvarez-botero,1
+1501,y. k. hernández-gómez,1
+1502,h. lobato-morales,1
+1503,g. osorio,1
+1504,i. ilichev,1
+1505,n. l. montes,1
+1506,s. lopez,1
+1507,s. cubero,1
+1508,j. blasco,1
+1509,a. tronev,1
+1510,d. zuev,1
+1511,s. makarov,1
+1512,s. stepanov,1
+1513,p. agruzov,1
+1514,j. guo,1
+1515,j. zhong,1
+1516,y. otani,1
+1517,t. taniguchi,1
+1518,k. usami,1
+1519,a. b. ustinov,1
+1520,t. van der sar,1
+1521,s. van dijken,1
+1522,v. i. vasyuchka,1
+1523,r. verba,1
+1524,s. v. kusminskiy,1
+1525,q. wang,1
+1526,m. weides,1
+1527,m. weiler,1
+1528,s. wintz,1
+1529,s. p. wolski,1
+1530,x. zhang,1
+1531,m. farkas,1
+1532,n. guerrero,1
+1533,j. cariñe,1
+1534,g. cañas,1
+1535,g. lima,1
+1536,b. seifert,1
+1537,r. rojas-aedo,1
+1538,r. a. wheatley,1
+1539,m. urbánek,1
+1540,k. szulc,1
+1541,j. javaloyes,1
+1542,o. surzhenko,1
+1543,a. papp,1
+1544,b. pigeau,1
+1545,p. pirro,1
+1546,w. porod,1
+1547,f. porrati,1
+1548,h. qin,1
+1549,b. rana,1
+1550,t. reimann,1
+1551,f. riente,1
+1552,o. romero-isart,1
+1553,a. ross,1
+1554,a. v. sadovnikov,1
+1555,a. r. safin,1
+1556,e. saitoh,1
+1557,g. schmidt,1
+1558,h. schultheiss,1
+1559,k. schultheiss,1
+1560,a. a. serga,1
+1561,s. sharma,1
+1562,j. m. shaw,1
+1563,d. suess,1
+1564,d. hidalgo-rojas,1
+1565,j. azócar,1
+1566,s. lara,1
+1567,s. gutiérrez,1
+1568,m. e. orchard,1
+1569,j. f. silva,1
+1570,m. natarajan,1
+1571,j. azocar,1
+1572,f. corral,1
+1573,g. mogos,1
+1574,w. hernandez,1
+1575,a. mendez,1
+1576,v. gonz&#x00e1,1
+1577,lez-posadas,1
+1578,j. l. jim&#x00e9,1
+1579,nez-mart&#x00ed,1
+1580,f. j. arqu&#x00e9,1
+1581,s-orob&#x00f3,1
+1582,w. velasquez,1
+1583,f. jijon-veliz,1
+1584,m. s. alvarez-alvarado,1
+1585,c. gordón,1
+1586,m. cumbajín,1
+1587,g. carpintero,1
+1588,e. bente,1
+1589,m. a. cerda munoz,1
+1590,b. e. olivares,1
+1591,n. purushothaman,1
+1592,g. beaudoin,1
+1593,p. palacios,1
+1594,c. azurdia,1
+1595,m. mattheakis,1
+1596,t. oikonomou,1
+1597,m. i. molina,1
+1598,g. p. tsironis,1
+1599,l. soun,1
+1600,a. masominia,1
+1601,k. pantzas,1
+1602,i. sagnes,1
+1603,h. devarajan,1
+1604,j. -r. coudevylle,1
+1605,g. jara-schulz,1
+1606,m. clerc,1
+1607,v. a. pammi,1
+1608,j. a. mucarquer,1
+1609,p. prado,1
+1610,m. -j. escobar,1
+1611,w. el-deredy,1
+1612,m. zañartu,1
+1613,b. s. oliveira,1
+1614,b. s. archanjo,1
+1615,t. l. vasconcelos,1
+1616,tamura e.,1
+1617,granhen e.r.,1
+1618,vega-teijido m.a.,1
+1619,maluf s.e.c.,1
+1620,bonturi c.r.,1
+1621,ventura o.n.,1
+1622,romualdo l.c.s.,1
+1623,mascarenhas n.d.a.,1
+1624,santiago d.f.g.,1
+1625,melo n.,1
+1626,silva o.b.,1
+1627,rivera v.a.g.,1
+1628,ferri f.a.,1
+1629,ledemi y.,1
+1630,zanatta a.r.,1
+1631,messaddeq y.,1
+1632,marega e.,1
+1633,rivera r.,1
+1634,jácome s.,1
+1635,maldonado f.,1
+1636,stashans a.,1
+1637,bose s.,1
+1638,alves d.t.,1
+1639,pretel a.,1
+1640,ramos m.j.,1
+1641,hissami a.,1
+1642,nicolau a.d.s.,1
+1643,garcía e.,1
+1644,lopez j.a.,1
+1645,alvarez e.,1
+1646,mendieta f.j.,1
+1647,arvizu a.,1
+1648,nesterov a.i.,1
+1649,berman g.p.,1
+1650,zepeda j.c.b.,1
+1651,bishop a.r.,1
+1652,ye c.,1
+1653,raymundo marcial romero j.,1
+1654,comin c.h.,1
+1655,costa l.d.f.,1
+1656,hancock e.r.,1
+1657,ablayev f.,1
+1658,khadiev k.,1
+1659,renteria-mejia c.p.,1
+1660,velasco-medina j.,1
+1661,vega d.,1
+1662,almeida d.,1
+1663,bayat a.,1
+1664,sodano p.,1
+1665,banchi l.,1
+1666,verrucchi p.,1
+1667,dos santos coelho l.,1
+1668,de vasconcelos segundo e.h.,1
+1669,guerra f.a.,1
+1670,mariani v.c.,1
+1671,madrid s a.,1
+1672,escobar k.a.,1
+1673,maldonado c.e.,1
+1674,gómez-cruz n.a.,1
+1675,crespi a.,1
+1676,ramponi r.,1
+1677,vitelli c.,1
+1678,sansoni l.,1
+1679,osellame r.,1
+1680,marín d.b.,1
+1681,salazar a.,1
+1682,camacho-leon s.,1
+1683,martínez-chapa s.o.,1
+1684,rossetto o.,1
+1685,valverde c.,1
+1686,baseia b.,1
+1687,yepes d.,1
+1688,dos santos nicolau a.,1
+1689,venegas bayona s.,1
+1690,pineda osorio m.,1
+1691,serrano-pérez j.j.,1
+1692,grand a.,1
+1693,jorge n.,1
+1694,morell c.,1
+1695,cadet j.,1
+1696,de castro e.a.s.,1
+1697,de oliveira d.a.b.,1
+1698,de melo j.l.,1
+1699,sauri v.,1
+1700,gobbo j.p.,1
+1701,lundberg m.,1
+1702,barreau n.,1
+1703,coto p.b.,1
+1704,serrano-andrés l.,1
+1705,borin a.c.,1
+1706,lindh r.,1
+1707,merchán m.,1
+1708,abeijon a.m.,1
+1709,reyes-figueroa p.,1
+1710,painchaud t.,1
+1711,arzel l.,1
+1712,pinheiro p.v.p.,1
+1713,fernandes p.a.,1
+1714,b. fanzeres,1
+1715,myhre r.h.,1
+1716,nielsen c.b.,1
+1717,norman p.,1
+1718,olsen j.,1
+1719,olsen j.m.h.,1
+1720,osted a.,1
+1721,packer m.j.,1
+1722,pawlowski f.,1
+1723,pedersen t.b.,1
+1724,reine s.,1
+1725,rinkevicius z.,1
+1726,ruden t.a.,1
+1727,ruud k.,1
+1728,rybkin v.v.,1
+1729,sałek p.,1
+1730,samson c.c.m.,1
+1731,de merás a.s.,1
+1732,saue t.,1
+1733,sauer s.p.a.,1
+1734,schimmelpfennig b.,1
+1735,sneskov k.,1
+1736,steindal a.h.,1
+1737,neiss c.,1
+1738,mikkelsen k.v.,1
+1739,tamames j.a.,1
+1740,melo j.i.,1
+1741,hettema h.,1
+1742,hjertenæs e.,1
+1743,høst s.,1
+1744,høyvik i.-m.,1
+1745,iozzi m.f.,1
+1746,jansík b.,1
+1747,jensen h.j.a.,1
+1748,jonsson d.,1
+1749,jørgensen p.,1
+1750,kauczor j.,1
+1751,kirpekar s.,1
+1752,kjærgaard t.,1
+1753,klopper w.,1
+1754,knecht s.,1
+1755,kobayashi r.,1
+1756,koch h.,1
+1757,kongsted j.,1
+1758,krapp a.,1
+1759,kristensen k.,1
+1760,ligabue a.,1
+1761,lutnæs o.b.,1
+1762,sylvester-hvid k.o.,1
+1763,taylor p.r.,1
+1764,teale a.m.,1
+1765,tellgren e.i.,1
+1766,vega-g. v.h.,1
+1767,rodríguez-r. g.,1
+1768,uribe-v. h.,1
+1769,huerta-g. o.,1
+1770,molina-r. j.,1
+1771,rashid j.,1
+1772,caicedo-ortiz h.e.,1
+1773,santiago-cortes e.,1
+1774,de santana y.v.b.,1
+1775,raubach c.w.,1
+1776,la porta f.a.,1
+1777,gouveia a.f.,1
+1778,kastensmidt f.l.,1
+1779,indrusiak l.s.,1
+1780,sassatelli g.,1
+1781,caires l.f.v.,1
+1782,noronha t.f.,1
+1783,brás n.f.,1
+1784,ribeiro a.j.m.,1
+1785,oliveira m.,1
+1786,paixão n.m.,1
+1787,póndigo de los a. e.,1
+1788,gutiérrez-d. e.a.,1
+1789,seminario j.m.,1
+1790,littlejohn r.g.,1
+1791,tew d.p.,1
+1792,thorvaldsen a.j.,1
+1793,thøgersen l.,1
+1794,vahtras o.,1
+1795,watson m.a.,1
+1796,wilson d.j.d.,1
+1797,ziolkowski m.,1
+1798,ågren h.,1
+1799,palazzo jr. r.,1
+1800,anderson r.,1
+1801,kubli-garfias c.,1
+1802,soto tirado e.,1
+1803,rodríguez s.,1
+1804,marciano a.l.p.,1
+1805,oliveira a.b.,1
+1806,lanz c.,1
+1807,brizuela g.,1
+1808,simonetti s.,1
+1809,küçük u.,1
+1810,salazar-salinas k.,1
+1811,murray j.s.,1
+1812,santos j.c.,1
+1813,toro-labbé a.,1
+1814,a. f. de oliveira,1
+1815,v. f. da silva,1
+1816,a. j. ferreira martins,1
+1817,i. bernardes-urias,1
+1818,f. hernández,1
+1819,k. díaz,1
+1820,m. forets,1
+1821,g. aristoy,1
+1822,a. santos,1
+1823,d. slomovitz,1
+1824,i. morales,1
+1825,r. gonzález-landaeta,1
+1826,f. simini,1
+1827,s. l. linares,1
+1828,l. a. zambrano,1
+1829,f. r. fernandes pereira,1
+1830,g. g. la guardia,1
+1831,f. m. de assis,1
+1832,m. c. a. de oliveira,1
+1833,m. l. da s. neto,1
+1834,p. i. r. pincheira,1
+1835,c. rojas-ulloa,1
+1836,s. brito,1
+1837,e. buksman,1
+1838,politzer p.,1
+1839,c. allende,1
+1840,d. j. thoen,1
+1841,j. bueno,1
+1842,j. j. a. baselmans,1
+1843,n. dupuis,1
+1844,b. g. lee,1
+1845,j. e. proesel,1
+1846,a. rylyakov,1
+1847,r. rimolo-donadio,1
+1848,c. w. baks,1
+1849,a. ardey,1
+1850,c. l. schow,1
+1851,a. ramaswamy,1
+1852,j. e. roth,1
+1853,r. s. guzzon,1
+1854,b. koch,1
+1855,d. k. sparacin,1
+1856,g. a. fish,1
+1857,j. a. alfaro,1
+1858,p. m. sberna,1
+1859,c. silvestri,1
+1860,r. ishihara,1
+1861,n. r. gomez,1
+1862,h. p. de oliveira,1
+1863,c. b. de araújo,1
+1864,c. r. h. barbosa,1
+1865,j. soldera,1
+1866,c. alberto ramirez behaine,1
+1867,j. scharcanski,1
+1868,m. a. dias,1
+1869,f. m. assis,1
+1870,m. m. camboim,1
+1871,v. s. oliveira,1
+1872,m. r. villarim,1
+1873,a. w. r. villarim,1
+1874,o. r. baiocchi,1
+1875,c. p. de souza,1
+1876,t. v. alencar,1
+1877,d. von dreifus,1
+1878,e. s. n. gomes,1
+1879,p. -w. chiu,1
+1880,m. a. pimenta,1
+1881,a. m. de paula,1
+1882,c. r. hall barbosa,1
+1883,j. hällström,1
+1884,r. saavedra,1
+1885,g. c. amaral,1
+1886,r. schmitt,1
+1887,p. r. marques de araujo,1
+1888,b. guerreiro,1
+1889,b. c. lima,1
+1890,j. f. chaves,1
+1891,m. a. ribeiro,1
+1892,f. s. torres,1
+1893,o. p. v. neto,1
+1894,v. f. guedes,1
+1895,f. a. mendonca,1
+1896,j. b. rosa silva,1
+1897,w. g. kürte ihlenfeld,1
+1898,r. t. de barros e vasconcellos,1
+1899,a. l. moura,1
+1900,n. s. d. brito,1
+1901,j. p. von der weid,1
+1902,m. l. da silva neto,1
+1903,m. maldonado,1
+1904,c. b. de araujo,1
+1905,a. m. jawaid,1
+1906,a. j. ritter,1
+1907,r. a. vaia,1
+1908,r. d. a. coelho,1
+1909,é. m. lima,1
+1910,j. a. alfaro-barrantes,1
+1911,j. batista rosa silva,1
+1912,f. j. l. de almeida,1
+1913,barigye s.j.,1
+1914,mollinetti m.a.f.,1
+1915,lula b.,1
+1916,bautista j.e.q.,1
+1917,lyra m.l.,1
+1918,lima r.p.a.,1
+1919,carvalho m.t.,1
+1920,bezerra m.,1
+1921,marega-junior e.,1
+1922,borges b.-h.v.,1
+1923,nunes f.d.,1
+1924,castilho-almeida e.w.,1
+1925,de almeida w.b.,1
+1926,dos santos h.f.,1
+1927,jiang d.-e.,1
+1928,chen z.,1
+1929,say a.c.,1
+1930,chandia k.j.,1
+1931,tellini b.,1
+1932,bologna m.,1
+1933,martínez-santiago o.,1
+1934,millán-cabrera r.,1
+1935,de oliveira r.c.l.,1
+1936,monteiro d.c.,1
+1937,teixeira o.n.,1
+1938,mosna r.a.,1
+1939,jaque p.,1
+1940,sayed a.,1
+1941,ensuncho a.e.,1
+1942,robles j.,1
+1943,mueses m.a.,1
+1944,machuca-martínez f.,1
+1945,camargo-amado r.j.,1
+1946,escovedo t.,1
+1947,hamilton i.p.,1
+1948,site l.d.,1
+1949,souza d.l.,1
+1950,anderson r.w.,1
+1951,fernandez florez i.,1
+1952,iuga c.,1
+1953,solís c.,1
+1954,alvarez-idaboy j.r.,1
+1955,martínez m.á.,1
+1956,mondragón ma.a.,1
+1957,vivier-bunge a.,1
+1958,de biasi m.,1
+1959,marrero-ponce y.,1
+1960,martínez-lõpez y.,1
+1961,z. wang,1
+1962,torrens f.,1
+1963,r. t. mourão,1
+1964,m. h. degani,1
+1965,m. z. maialle,1
+1966,c. s. soares,1
+1967,p. k. r. baikadi,1
+1968,a. c. j. rossetto,1
+1969,m. a. pavanello,1
+1970,g. i. wirth,1
+1971,l. neves,1
+1972,l. j. collazos,1
+1973,m. m. a. huwayz,1
+1974,d. n. micha,1
+1975,l. dornelas pinto,1
+1976,r. m. s. kawabata,1
+1977,m. henini,1
+1978,p. l souza,1
+1979,c. blank,1
+1980,a. rossetto,1
+1981,c. soares,1
+1982,g. wirth,1
+1983,m. pavanello,1
+1984,l. d. pinto,1
+1985,l. guerra,1
+1986,l. p. dornelas,1
+1987,e. giusto,1
+1988,pérez-giménez f.,1
+1989,macêdo a.m.s.,1
+1990,martins e.p.s.,1
+1991,e. auden,1
+1992,m. s. lacerda,1
+1993,j. e. ruiz,1
+1994,v. r. souza,1
+1995,r. vale,1
+1996,t. m. d. azevedo,1
+1997,b. baheri,1
+1998,r. m. kawabata,1
+1999,q. guan,1
+2000,b. montrucchio,1
+2001,t. a. freitas,1
+2002,p. machado,1
+2003,l. v. de carvalho,1
+2004,r. corrêa,1
+2005,m. f. santos,1
+2006,c. h. monken,1
+2007,b. v. rocha,1
+2008,antonio hernández servín j.,1
+2009,zeljkovic v.,1
+2010,césar n.p.,1
+2011,dimario m.,1
+2012,proietti m.,1
+2013,fedrizzi a.,1
+2014,veronesi i.,1
+2015,bucciarelli r.,1
+2016,tortoriello f.s.,1
+2017,rodrigo a.,1
+2018,greco m.,1
+2019,la ragione c.,1
+2020,enriquez j.j.,1
+2021,tanaka h.,1
+2022,sabri m.,1
+2023,romero r.,1
+2024,lima c.,1
+2025,lodeiro l.,1
+2026,rauch t.,1
+2027,reis r.l.,1
+2028,souza r.c.,1
+2029,maior c.b.s.,1
+2030,araujo l.m.m.,1
+2031,lins i.d.,1
+2032,moura m.d.c.,1
+2033,pickston a.,1
+2034,morrison c.l.,1
+2035,graffitti f.,1
+2036,patino núñez e.j.,1
+2037,jones k.m.,1
+2038,lett p.d.,1
+2039,santos t.j.,1
+2040,paggiaro j.,1
+2041,cabral silva pimentel h.d.,1
+2042,karla dos santos pereira a.,1
+2043,cavallini g.s.,1
+2044,rodriguez condia j.e.,1
+2045,guerrero-balaguera j.-d.,1
+2046,limas r.,1
+2047,ho j.,1
+2048,reorda m.s.,1
+2049,matamoros p.,1
+2050,zamora w.,1
+2051,brasco m.a.,1
+2052,de carvalho c.a.,1
+2053,belén oviedo m.,1
+2054,marchiori d.,1
+2055,panario d.,1
+2056,moura l.,1
+2057,droguett lopez e.l.,1
+2058,chrysosthemos d.s.s.,1
+2059,nazé p.,1
+2060,marinho e.s.,1
+2061,barros g.a.,1
+2062,santana l.c.,1
+2063,moralles a.c.,1
+2064,morgon n.h.,1
+2065,oliveira f.g.s.,1
+2066,dos santos l.p.m.,1
+2067,de sant'ana h.b.,1
+2068,feitosa f.x.,1
+2069,schwarzacher w.,1
+2070,jayaraj a.,1
+2071,jafari navimipour n.,1
+2072,siloi i.,1
+2073,sławińska j.,1
+2074,ceresoli d.,1
+2075,restuccia a.,1
+2076,sotomayor a.,1
+2077,strauss v.a.,1
+2078,peralta f.a.,1
+2079,huidobro-toro j.p.,1
+2080,cesar perez-sansalvador j.,1
+2081,porto c.m.,1
+2082,seyedi s.,1
+2083,bonança m.v.s.,1
+2084,raman r.,1
+2085,felipe-sosa r.,1
+2086,felipe r.,1
+2087,nicesio o.k.,1
+2088,leal a.g.,1
+2089,gava v.l.,1
+2090,nafees n.,1
+2091,ahmed s.,1
+2092,kakkar v.,1
+2093,gudipalli t.l.,1
+2094,singh d.p.,1
+2095,fiorot r.g.,1
+2096,singh d.,1
+2097,venkateswarlu c.,1
+2098,gonzales j.l.a.,1
+2099,ng s.s.h.,1
+2100,walus k.,1
+2101,zambrano l.,1
+2102,bispo m.o.,1
+2103,de lima lopes rocha p.,1
+2104,"dos santos f.m., jr.",1
+2105,anderson b.e.,1
+2106,de araujo l.e.e.,1
+2107,abeywickrama k.m.,1
+2108,zhou z.,1
+2109,de lima medeiros r.,1
+2110,de brito pinto t.k.,1
+2111,de freitas oliveira j.w.,1
+2112,"de sousa f.l., jr.",1
+2113,de medeiros m.j.c.,1
+2114,amorim-carmo b.,1
+2115,santos-gomes g.,1
+2116,de lima pontes d.,1
+2117,rocha h.a.o.,1
+2118,frazão n.f.,1
+2119,silva m.s.,1
+2120,noce j.,1
+2121,chantong g.,1
+2122,jauregui g.,1
+2123,mogami r.,1
+2124,saha r.,1
+2125,kumar g.,1
+2126,devgun t.,1
+2127,buchanan w.j.,1
+2128,thomas r.,1
+2129,alazab m.,1
+2130,farias h.m.,1
+2131,moreno c.j.g.,1
+2132,pant b.,1
+2133,lounis b.,1
+2134,maidin s.s.,1
+2135,lopes rosa r.,1
+2136,toor w.t.,1
+2137,carrillo melgarejo d.,1
+2138,wuttisittikulkij l.,1
+2139,saadi m.,1
+2140,zegarra rodríguez d.,1
+2141,croitoru m.d.,1
+2142,mironov s.v.,1
+2143,buzdin a.i.,1
+2144,gaikwad a.p.,1
+2145,figlarz g.r.,1
+2146,hessel f.p.,1
+2147,duque j.c.,1
+2148,caprile f.,1
+2149,masullo l.a.,1
+2150,stefani f.d.,1
+2151,chandra a.s.,1
+2152,bbhagat b.,1
+2153,panduro-ramirez j.,1
+2154,hoon-kim t.,1
+2155,rodrigues j.j.p.c.,1
+2156,ramírez-uribe s.,1
+2157,vieira v.l.,1
+2158,qayed w.s.,1
+2159,lollie m.l.j.,1
+2160,mostafavi f.,1
+2161,bhusal n.,1
+2162,hong m.,1
+2163,león-montiel r.d.j.,1
+2164,quiroz-juárez m.a.,1
+2165,"palazzo r., jr.",1
+2166,de oliveira quilles queiroz c.r.,1
+2167,gregor c.,1
+2168,anunciação e.l.s.,1
+2169,ashlock d.,1
+2170,ruz g.a.,1
+2171,mackinnon d.,1
+2172,kribs d.,1
+2173,oliveira r.c.l.,1
+2174,gallego-mejia j.a.,1
+2175,mourelle l.m.,1
+2176,león-chávez m.á.,1
+2177,perin l.p.,1
+2178,costa c.h.s.,1
+2179,balieiro a.m.,1
+2180,hernández-pinto r.j.,1
+2181,perez y.,1
+2182,rodrigo g.,1
+2183,sborlini g.f.r.,1
+2184,cervantes-vazquez d.,1
+2185,jain d.k.,1
+2186,er m.j.,1
+2187,xin q.,1
+2188,shankar k.,1
+2189,jessop i.a.,1
+2190,cutipa j.,1
+2191,saldías c.,1
+2192,kowada l.a.,1
+2193,fuentealba d.,1
+2194,tundidor-camba a.,1
+2195,terraza c.a.,1
+2196,camarada m.b.,1
+2197,angel f.a.,1
+2198,gallego j.a.,1
+2199,osorio j.f.,1
+2200,marturet a.d.,1
+2201,chicayban bastos d.,1
+2202,carballude a.,1
+2203,ganguly s.,1
+2204,faz-hernandez a.,1
+2205,augusto m.f.,1
+2206,valencia d.,1
+2207,conde j.,1
+2208,chen g.-l.,1
+2209,song x.-h.,1
+2210,brito b.g.a.,1
+2211,verde e.l.,1
+2212,hai g.-q.,1
+2213,cândido l.,1
+2214,bellini e.,1
+2215,esser a.,1
+2216,ionica s.,1
+2217,rivera-zamarripa l.,1
+2218,trimoska m.,1
+2219,zweydinger f.,1
+2220,temporao g.p.,1
+2221,guerreiro t.b.s.,1
+2222,ripper p.s.c.,1
+2223,pavani a.m.b.,1
+2224,márquez b.y.,1
+2225,castillo j.d.,1
+2226,realyvásquez-vargas a.,1
+2227,ashok a.,1
+2228,miller c.,1
+2229,watanabe r.a.,1
+2230,yañez o.,1
+2231,de lima t.,1
+2232,guarneros-nolasco l.r.,1
+2233,navarro-santos p.,1
+2234,mulia-rodríguez j.,1
+2235,rodríguez-romero f.,1
+2236,lópez-rendón r.,1
+2237,urzua reyes m.d.,1
+2238,gomez urzua j.a.,1
+2239,de la re davila b.o.,1
+2240,báez-grez r.,1
+2241,de andrade a.a.,1
+2242,inostroza d.,1
+2243,pino-rios r.,1
+2244,rabanal-león w.a.,1
+2245,contreras-garcía j.,1
+2246,cardenas c.,1
+2247,tiznado w.,1
+2248,trinca c.c.,1
+2249,junior r.p.,1
+2250,interlando j.c.,1
+2251,lópez r. j.m.,1
+2252,samperio e.h.,1
+2253,gonzález-arciniegas c.,1
+2254,battistelli e.s.,1
+2255,larin s.,1
+2256,de souza r.m.,1
+2257,ribeiro m.c.c.,1
+2258,lyulin s.,1
+2259,karttunen m.,1
+2260,jauja-ccana v.r.,1
+2261,córdova huamán a.v.,1
+2262,feliciano g.t.,1
+2263,la rosa-toro gómez a.,1
+2264,dalessandro g.,1
+2265,dobrovskiy a.,1
+2266,hoang t.d.,1
+2267,mousset l.,1
+2268,osullivan c.,1
+2269,prele d.,1
+2270,stankowiak g.,1
+2271,thermeau j.-p.,1
+2272,alberro j.g.,1
+2273,almela a.,1
+2274,arnaldi l.h.,1
+2275,silber s.a.,1
+2276,melnikova s.,1
+2277,nussenzveig p.,1
+2278,de souza r.,1
+2279,martinelli m.,1
+2280,pfister o.,1
+2281,septien-hernandez j.-a.,1
+2282,arellano-vazquez m.,1
+2283,contreras-cruz m.a.,1
+2284,ramirez-paredes j.-p.,1
+2285,dias m.a.,1
+2286,albino a.,1
+2287,pires o.,1
+2288,santos p.,1
+2289,glova a.,1
+2290,neto a.,1
+2291,nascimento e.,1
+2292,tolmachev d.,1
+2293,lukasheva n.,1
+2294,ramazanov r.,1
+2295,nazarychev v.,1
+2296,borzdun n.,1
+2297,volgin i.,1
+2298,andreeva m.,1
+2299,leal d.,1
+2300,torres w.,1
+2301,gerardo ayala bertel l.,1
+2302,guarda t.,1
+2303,chowdhury f.t.,1
+2304,smith l.d.,1
+2305,alvarez p.,1
+2306,sandeep s.,1
+2307,aiello c.,1
+2308,gonzález d.,1
+2309,macaya l.,1
+2310,vöhringer-martinez e.,1
+2311,silva g.m.,1
+2312,borges r.s.,1
+2313,santos k.l.b.,1
+2314,federico l.b.,1
+2315,francischini i.a.g.,1
+2316,gomes s.q.,1
+2317,barcelos m.p.,1
+2318,silva r.c.,1
+2319,silva c.h.t.p.,1
+2320,de oliveira n.m.,1
+2321,de albuquerque l.p.,1
+2322,pires o.m.,1
+2323,marchi j.,1
+2324,brokowski t.j.,1
+2325,dos santos r.p.,1
+2326,witte f.,1
+2327,ekins s.,1
+2328,mohanty s.,1
+2329,maldonado-romo a.,1
+2330,yeh l.,1
+2331,batra k.,1
+2332,zorn k.m.,1
+2333,foil d.h.,1
+2334,minerali e.,1
+2335,gawriljuk v.o.,1
+2336,lane t.r.,1
+2337,curutchet c.,1
+2338,swan m.,1
+2339,luque f.j.,1
+2340,alcântara m.s.d.s.,1
+2341,dias t.,1
+2342,melo s.d.b.,1
+2343,lopez k.,1
+2344,quiroga d.,1
+2345,date p.,1
+2346,pooser r.,1
+2347,zhao s.,1
+2348,leite v.b.p.,1
+2349,da rosa e.c.r.,1
+2350,losada m.,1
+2351,shakerzadeh e.,1
+2352,althubiti s.a.,1
+2353,escorcia-gutierrez j.,1
+2354,gamarra m.,1
+2355,soto-diaz r.,1
+2356,mansour r.f.,1
+2357,alenezi f.,1
+2358,kravchenko v.v.,1
+2359,torba s.m.,1
+2360,parsa h.,1
+2361,nonaka m.,1
+2362,poletti d.,1
+2363,kovalsky m.,1
+2364,agüero m.,1
+2365,hnilo a.,1
+2366,de jesus j.p.a.,1
+2367,jimenez m.z.,1
+2368,la porta f.d.a.,1
+2369,astrizi t.l.,1
+2370,baheri b.,1
+2371,guan q.,1
+2372,landi g.t.,1
+2373,casagrande h.p.,1
+2374,gonzalez-raya t.,1
+2375,lechuga-gutierres l.,1
+2376,asensio-perea r.,1
+2377,céleri l.c.,1
+2378,lougovski p.,1
+2379,dumitrescu e.f.,1
+2380,petromichelakis i.,1
+2381,bosse r.m.,1
+2382,kougioumtzoglou i.a.,1
+2383,beck a.t.,1
+2384,altamirano-escobedo g.,1
+2385,lisarraga-rodriguez j.,1
+2386,dos santos f.e.a.,1
+2387,costa m.h.j.,1
+2388,dias e.d.m.,1
+2389,ramos-guzmán c.a.,1
+2390,velázquez-libera j.l.,1
+2391,ruiz-pernía j.j.,1
+2392,tuñón i.,1
+2393,madeira l.,1
+2394,garcía-orozco a.d.,1
+2395,moreno-armijos m.a.,1
+2396,okey o.d.,1
+2397,gierschner j.,1
+2398,milián-medina b.,1
+2399,innocenti l.,1
+2400,alvarado barrios g.,1
+2401,albarrán-arriagada f.,1
+2402,perez-sansalvador j.c.,1
+2403,ipinloju n.,1
+2404,ibrahim a.,1
+2405,da costa r.a.,1
+2406,adigun t.b.,1
+2407,olubode s.o.,1
+2408,abayomi k.j.,1
+2409,aiyelabegan a.o.,1
+2410,esan t.o.,1
+2411,muhammad s.a.,1
+2412,oyeneyin o.e.,1
+2413,chanana a.,1
+2414,song j.,1
+2415,melo e.g.,1
+2416,haws c.,1
+2417,sapienza l.,1
+2418,song j.-d.,1
+2419,srinivasan k.,1
+2420,davanco m.,1
+2421,tang j.-l.,1
+2422,herrera-valencia e.e.,1
+2423,vichi-ramírez m.m.,1
+2424,pollachini g.g.,1
+2425,paternostro m.,1
+2426,fernández espinosa p.f.,1
+2427,cruz á.b.,1
+2428,de brito l.g.,1
+2429,leal p.v.b.,1
+2430,dos santos ramos w.t.,1
+2431,carlos g.,1
+2432,hussain a.,1
+2433,góes c.b.d.,1
+2434,salazar j.p.l.c.,1
+2435,villar p.i.,1
+2436,cuenca r.g.,1
+2437,mayosky m.,1
+2438,veiga a.,1
+2439,canal c.g.,1
+2440,fanchiotti h.,1
+2441,enríquez m.,1
+2442,del grosso n.f.,1
+2443,lombardo f.c.,1
+2444,mazzitelli f.d.,1
+2445,dos santos n.s.s.,1
+2446,fonseca s.,1
+2447,almeida f.f.,1
+2448,semelak j.a.,1
+2449,majumdar s.,1
+2450,khan i.a.,1
+2451,brizola e.m.,1
+2452,"soares w.s., jr.",1
+2453,copatti d.f.,1
+2454,ripper p.,1
+2455,amaral g.,1
+2456,temporão g.,1
+2457,giron a.a.,1
+2458,navaux p.o.a.,1
+2459,mendes nadal j.,1
+2460,lorenzon a.f.,1
+2461,serpa m.s.,1
+2462,yadav s.p.,1
+2463,yadav v.,1
+2464,al-turjman f.,1
+2465,kumar s.a.,1
+2466,souza l.c.a.,1
+2467,abreu r.v.a.,1
+2468,guerreiro m.c.,1
+2469,manfron j.,1
+2470,novatski a.,1
+2471,belo e.,1
+2472,de almeida n.g.,1
+2473,siqueira m.,1
+2474,dos santos niculau e.,1
+2475,silva s.,1
+2476,santos d.a.,1
+2477,andrade-filho t.,1
+2478,gester r.,1
+2479,cunha a.r.,1
+2480,de assis r.j.,1
+2481,diniz c.m.,1
+2482,villas-bôas c.j.,1
+2483,lara l.s.d.,1
+2484,mangla c.,1
+2485,rani s.,1
+2486,faseeh qureshi n.m.,1
+2487,farago p.v.,1
+2488,camargo g.d.a.,1
+2489,mendes m.b.,1
+2490,semianko b.c.,1
+2491,camilo junior a.,1
+2492,dias d.t.,1
+2493,ferraro a.,1
+2494,giordani t.,1
+2495,oliveira e.f.,1
+2496,rodari g.,1
+2497,abinader f.m.,1
+2498,rosolem j.b.,1
+2499,riveros l.g.m.,1
+2500,martins l.,1
+2501,lima g.c.,1
+2502,valdez f.,1
+2503,melin p.,1
+2504,friedrich l.,1
+2505,larocca m.,1
+2506,ju n.,1
+2507,garcía-martín d.,1
+2508,coles p.j.,1
+2509,cerezo m.,1
+2510,bağcı a.,1
+2511,aucar g.a.,1
+2512,farooq s.,1
+2513,altaf a.,1
+2514,iqbal f.,1
+2515,thompson e.b.,1
+2516,vargas d.l.r.,1
+2517,díez i.t.,1
+2518,maciel j.a.s.,1
+2519,sutili t.,1
+2520,figueiredo r.c.,1
+2521,pescador-rojas m.,1
+2522,srinivasu p.n.,1
+2523,ijaz m.f.,1
+2524,woźniak m.,1
+2525,silva j.f.,1
+2526,albuquerque a.r.,1
+2527,maia a.s.,1
+2528,rangel-peña u.j.,1
+2529,zárate-hernández l.a.,1
+2530,gonzález-montiel s.,1
+2531,meneses-viveros a.,1
+2532,capece l.,1
+2533,rodrigues j.l.,1
+2534,ligorio r.f.,1
+2535,krawczuk a.,1
+2536,diniz r.,1
+2537,dos santos l.h.r.,1
+2538,alcázar j.j.,1
+2539,misad saide a.c.,1
+2540,campodónico p.r.,1
+2541,clemente c.m.,1
+2542,ashraf i.,1
+2543,blank c.,1
+2544,álvarez j.r.,1
+2545,sainz n.,1
+2546,junqueira g.m.a.,1
+2547,ballester m.y.,1
+2548,nascimento m.a.c.,1
+2549,jiang t.,1
+2550,wei x.-y.,1
+2551,wang d.-s.,1
+2552,yuan j.-y.,1
+2553,sepúlveda p.,1
+2554,muga i.,1
+2555,rojas r.g.,1
+2556,kimani n.m.,1
+2557,silva-garcía v.m.,1
+2558,flores-carapia r.,1
+2559,cardona-lópez m.a.,1
+2560,villarreal-cervantes m.g.,1
+2561,salmeron j.l.,1
+2562,fernández-palop i.,1
+2563,suprano a.,1
+2564,polino e.,1
+2565,zia d.,1
+2566,ramos r.s.,1
+2567,campos j.m.,1
+2568,silva a.m.,1
+2569,vera c.j.,1
+2570,valencia a.,1
+2571,guerrero g.e.s.,1
+2572,viera-gonzález p.m.,1
+2573,návrat a.,1
+2574,vašík p.,1
+2575,eryganov i.,1
+2576,batista c.a.,1
+2577,reyna-luna j.,1
+2578,soriano-agueda l.,1
+2579,franco-pérez m.,1
+2580,cruz j.n.,1
+2581,guerrer g.,1
+2582,miller a.,1
+2583,christensen r.b.,1
+2584,ruano d.,1
+2585,bastos r.s.,1
+2586,de lima l.r.,1
+2587,neto m.f.a.,1
+2588,maryam,1
+2589,yousaf n.,1
+2590,oliveira j.e.,1
+2591,granda arango a.c.,1
+2592,cardoso-isidoro c.,1
+2593,camarillo-salazar e.,1
+2594,nauman a.,1
+2595,juneja s.,1
+2596,dhiman g.,1
+2597,viriyasitavat w.,1
+2598,hamid y.,1
+2599,anajemba j.h.,1
+2600,marquezino f.,1
+2601,oliveira a.,1
+2602,montañez-barrera j.a.,1
+2603,holladay r.t.,1
+2604,beretta g.p.,1
+2605,von spakovsky m.r.,1
+2606,feitosa l.f.,1
+2607,campos r.b.,1
+2608,richter w.e.,1
+2609,soto-alvarez j.a.,1
+2610,hernandez-aguirre a.,1
+2611,hernandez-gonzalez m.a.,1
+2612,lopez-montero l.m.,1
+2613,leal r.c.,1
+2614,marinho y.b.d.,1
+2615,singamaneni k.k.,1
+2616,gonzález e.,1
+2617,piceno j.a.,1
+2618,jarschel p.f.,1
+2619,obayya m.,1
+2620,hilal a.m.,1
+2621,payares e.,1
+2622,olvera c.,1
+2623,"de faria a.c.a., jr.",1
+2624,tomazio n.b.,1
+2625,fujii l.,1
+2626,trinchão l.o.,1
+2627,gonçalves e.s.,1
+2628,santos f.g.s.,1
+2629,calderan f.v.,1
+2630,barbosa f.a.,1
+2631,wiederhecker g.s.,1
+2632,de souza barbosa a.,1
+2633,vargas-calderón v.,1
+2634,vinck-posada h.,1
+2635,tracy d.a.,1
+2636,shrivas m.k.,1
+2637,bhansali a.,1
+2638,pinheiro g.a.,1
+2639,de andrade m.a.m.,1
+2640,da luz sousa i.,1
+2641,domingues junior j.s.,1
+2642,martinez-mayorga k.,1
+2643,agrafiotis d.k.,1
+2644,lee p.,1
+2645,kuhn l.a.,1
+2646,goodwin j.t.,1
+2647,holloway m.k.,1
+2648,doman t.n.,1
+2649,walters w.p.,1
+2650,schreyer s.,1
+2651,medina-franco j.l.,1
+2652,restifo l.l.,1
+2653,howe w.j.,1
+2654,winkler l.,1
+2655,müller k.-r.,1
+2656,sauceda h.e.,1
+2657,rezende s.m.,1
+2658,unogwu o.j.,1
+2659,mijwil m.m.,1
+2660,sánchez-adame m.,1
+2661,padula d.,1
+2662,roldao j.c.,1
+2663,johnson m.a.,1
+2664,petke j.d.,1
+2665,junior l.s.d.r.,1
+2666,varela j.d.j.g.,1
+2667,marques f.d.s.,1
+2668,gaviria i.d.m.,1
+2669,brandão i.,1
+2670,tandeitnik d.,1
+2671,guerreiro t.,1
+2672,dos santos a.m.,1
+2673,oliveira a.r.s.,1
+2674,da costa c.h.s.,1
+2675,kenny p.w.,1
+2676,linares-flores c.,1
+2677,christoffersen r.e.,1
+2678,rojas-poblete m.,1
+2679,guajardo-maturana r.,1
+2680,velasquez l.,1
+2681,schott e.,1
+2682,figlioli donato m.h.,1
+2683,muniz s.r.,1
+2684,caceres villena r.,1
+2685,shanmugasundaram v.,1
+2686,bajorath j.,1
+2687,al-wesabi f.n.,1
+2688,canesche m.,1
+2689,couperus leal s.t.,1
+2690,bastida a.,1
+2691,white a.,1
+2692,gibson t.r.,1
+2693,makhov d.v.,1
+2694,shalashilin d.v.,1
+2695,fedik n.,1
+2696,kulichenko m.,1
+2697,messerly r.,1
+2698,mohanam l.n.,1
+2699,sharifzadeh s.,1
+2700,seredin p.,1
+2701,negrin-yuvero h.,1
+2702,goloshchapov d.,1
+2703,buylov n.,1
+2704,kashkarov v.,1
+2705,shikhaliev k.,1
+2706,potapov a.,1
+2707,ippolitov y.,1
+2708,kartsev v.,1
+2709,kuyumchyan s.,1
+2710,de oliveira freitas r.,1
+2711,pérez-castillo r.,1
+2712,li x.,1
+2713,sinesio w.w.t.,1
+2714,marzo a.,1
+2715,garcia-diaz r.,1
+2716,romero de la cruz m.t.,1
+2717,avila-alvarado y.,1
+2718,fernandez-escamilla h.n.,1
+2719,guerrero-sanchez j.,1
+2720,hernández cocoletzi g.,1
+2721,revollo h.,1
+2722,ferrada p.,1
+2723,martin p.,1
+2724,del campo v.,1
+2725,malone w.,1
+2726,lauand p.,1
+2727,pollyceno l.,1
+2728,german a.,1
+2729,pias m.,1
+2730,xiang q.,1
+2731,dinani h.t.,1
+2732,tancara d.,1
+2733,norambuena a.,1
+2734,coto r.,1
+2735,de paula m.v.s.,1
+2736,dodonov a.v.,1
+2737,azevedo s.a.,1
+2738,lucca g.,1
+2739,mak m.k.,1
+2740,domino k.,1
+2741,koniorczyk m.,1
+2742,krawiec k.,1
+2743,jałowiecki k.,1
+2744,gardas b.,1
+2745,santos h.,1
+2746,cruz a.,1
+2747,xavier-de-souza s.,1
+2748,moura b.,1
+2749,harko t.,1
+2750,lourenço a.c.m.,1
+2751,santin l.g.,1
+2752,fajemiroye j.o.,1
+2753,oliveira s.s.,1
+2754,araujo i.f.,1
+2755,oliveira w.r.,1
+2756,petruccione f.,1
+2757,laranjeira j.a.s.,1
+2758,martins n.f.,1
+2759,lake m.j.,1
+2760,barra j.f.,1
+2761,liang r.n.,1
+2762,de oliveira r.b.,1
+2763,anacleto e.a.j.,1
+2764,meneses c.n.,1
+2765,gejea a.m.,1
+2766,mayakannan s.,1
+2767,palacios r.m.,1
+2768,hamad a.a.,1
+2769,sundaram b.,1
+2770,alghamdi w.,1
+2771,martins l.c.,1
+2772,aguayo-alvarado a.l.,1
+2773,cortés-vega j.,1
+2774,domínguez-serna f.a.,1
+2775,de la cruz w.,1
+2776,garay-palmett k.,1
+2777,galvão e.f.,1
+2778,de jesus g.c.c.,1
+2779,costa c.v.s.,1
+2780,de macedo l.g.m.,1
+2781,de oliveira neto p.h.,1
+2782,li n.,1
+2783,azzoni s.,1
+2784,belier b.,1
+2785,bau a.,1
+2786,lekitsch b.,1
+2787,márquez damián j.i.,1
+2788,acosta j.f.,1
+2789,andaluz v.h.,1
+2790,naranjo m.x.,1
+2791,molina j.i.,1
+2792,santana a.g.,1
+2793,topa a.o.,1
+2794,erazo g.,1
+2795,villegas i.,1
+2796,lopes j.h.,1
+2797,soares w.c.,1
+2798,caetano d.p.,1
+2799,viggianiello n.,1
+2800,flamini f.,1
+2801,elwahsh h.,1
+2802,piran m.j.,1
+2803,bashir a.k.,1
+2804,song o.-y.,1
+2805,uhlig c.v.h.b.,1
+2806,lencses m.,1
+2807,schleder g.r.,1
+2808,klinkby e.,1
+2809,kittelmann t.,1
+2810,cai x.-x.,1
+2811,saint-jalmes a.,1
+2812,hilder j.,1
+2813,pijn d.,1
+2814,schmiegelow c.,1
+2815,bermudez a.,1
+2816,müller m.,1
+2817,schmidt-kaler f.,1
+2818,poschinger u.,1
+2819,garnier l.,1
+2820,castro-beltran r.,1
+2821,lhermite h.,1
+2822,sansores l.e.,1
+2823,fameau a.-l.,1
+2824,vié v.,1
+2825,gicquel e.,1
+2826,cormerais h.,1
+2827,bêche b.,1
+2828,collange c.,1
+2829,bohórquez h.j.,1
+2830,celaya c.a.,1
+2831,salcedo r.,1
+2832,padilha a.c.m.,1
+2833,reily rocha a.,1
+2834,dalpian g.m.,1
+2835,romero g.,1
+2836,lara p.c.d.s.,1
+2837,henriques f.d.r.,1
+2838,menchón s.a.,1
+2839,kappen h.j.,1
+2840,buenano h.,1
+2841,guachimbosa v.h.,1
+2842,ruiz j.,1
+2843,salazar mera j.,1
+2844,sanchez guerrero j.,1
+2845,lamata l.,1
+2846,bhattacharyya s.,1
+2847,fre g.l.,1
+2848,spadoti d.h.,1
+2849,beltran-mejia f.,1
+2850,b. r.,1
+2851,druzgalski c.,1
+2852,mayorga p.,1
+2853,yalçınkaya i.,1
+2854,çakmak b.,1
+2855,karpat g.,1
+2856,dornelles m.d.f.,1
+2857,aggarwal v.,1
+2858,fazzio a.,1
+2859,ruiz-trejo c.,1
+2860,garcía-ruiz k.m.,1
+2861,marmolejo-valencia a.f.,1
+2862,gonzález-navejas a.,1
+2863,dominguez l.,1
+2864,amador-bedolla c.,1
+2865,lnpez-l o.,1
+2866,gutierrez-d e.a.,1
+2867,de la hidalga-wade f.j.,1
+2868,brandan m.-e.,1
+2869,cansino n.,1
+2870,sahni s.,1
+2871,cruz hernández j.-c.,1
+2872,moreno-ramírez a.,1
+2873,rodriguez-lópez j.a.,1
+2874,lópez-pineda e.,1
+2875,gómez-zepeda m.,1
+2876,chevalier m.,1
+2877,gorostiaga f.,1
+2878,danielsson l.m.,1
+2879,sánchez c.,1
+2880,stahl a.,1
+2881,kaushal v.,1
+2882,delgado j.a.,1
+2883,nakano-miyatake m.,1
+2884,lin r.,1
+2885,udalcovs a.,1
+2886,ozolins o.,1
+2887,pang x.,1
+2888,gan l.,1
+2889,tang m.,1
+2890,fu s.,1
+2891,popov s.,1
+2892,silva t.f.d.,1
+2893,chen j.,1
+2894,saire j.e.c.,1
+2895,cruz j.c.,1
+2896,hernández-esparza r.,1
+2897,vázquez-mayagoitia á.,1
+2898,vargas r.,1
+2899,garza j.,1
+2900,gonzález-alemán r.,1
+2901,hernández-castillo d.,1
+2902,caballero j.,1
+2903,montero-cabrera l.a.,1
+2904,pozzobom m.b.,1
+2905,guerra j.c.o.,1
+2906,de andrade p.c.p.,1
+2907,zhao w.,1
+2908,baca-montero e.r.,1
+2909,de oliveira m.v.,1
+2910,mendizábal e.,1
+2911,garcía i.,1
+2912,alfonso a.,1
+2913,poh p.,1
+2914,van griensven m.,1
+2915,balmayor e.r.,1
+2916,domínguez m.,1
+2917,denis-alpizar o.,1
+2918,shulika o.v.,1
+2919,jukan a.,1
+2920,kuznetsov a.,1
+2921,brumnik d.r.,1
+2922,kalashnikov p.v.,1
+2923,kavun p.s.,1
+2924,bosyk g.m.,1
+2925,fernández e.g.,1
+2926,morales-luna g.,1
+2927,sagols f.,1
+2928,cao c.,1
+2929,acevedo-rueda p.,1
+2930,camacho-parra c.,1
+2931,osma-pinto g.,1
+2932,veríssimo g.c.,1
+2933,renes j.m.,1
+2934,renner r.,1
+2935,consuelo-leal a.,1
+2936,araujo-ferreira a.g.,1
+2937,lucas-oliveira e.,1
+2938,bonagamba t.j.,1
+2939,obando p.c.,1
+2940,paula f.m.,1
+2941,reis p.r.,1
+2942,menezes dutra e.f.,1
+2943,jiménez-pérez v.m.,1
+2944,teotonio dias a.l.,1
+2945,de oliveira fernandes p.,1
+2946,kronenberger t.,1
+2947,gomes m.a.,1
+2948,maltarollo v.g.,1
+2949,de abiega-l'eglisse a.f.,1
+2950,delgado-vargas k.a.,1
+2951,valencia-rodriguez f.q.,1
+2952,gonzalez-quiroga v.g.,1
+2953,lacerda f.g.,1
+2954,sánchez m.,1
+2955,rodriguez-velasquez r.,1
+2956,odele o.d.,1
+2957,rodas j.m.,1
+2958,galindo j.f.,1
+2959,gomes e.o.,1
+2960,motta f.v.,1
+2961,bomio m.r.d.,1
+2962,andres j.,1
+2963,imany p.,1
+2964,alshaykh m.s.,1
+2965,lukens j.m.,1
+2966,moore a.j.,1
+2967,saucedo-yañez a.,1
+2968,leaird d.e.,1
+2969,qi m.,1
+2970,weiner a.m.,1
+2971,cominetti e.l.,1
+2972,simplicio m.a.,1
+2973,ibarra-rodríguez m.,1
+2974,muñoz-flores b.m.,1
+2975,chan-navarro r.,1
+2976,waksman n.,1
+2977,maulén b.,1
+2978,echeverri a.,1
+2979,gómez t.,1
+2980,fuentealba p.,1
+2981,suarez f.,1
+2982,tristram m.,1
+2983,truongcanh v.,1
+2984,vanneste s.,1
+2985,viganò d.,1
+2986,watson b.,1
+2987,kobayashi h.,1
+2988,kobayashi y.,1
+2989,kasai t.,1
+2990,aranha d.f.,1
+2991,nogueira m.,1
+2992,wangham m.,1
+2993,wu m.,1
+2994,liu j.,1
+2995,costa p.c.s.,1
+2996,de melo f.,1
+2997,viana f.h.f.,1
+2998,arguëlles j.a.,1
+2999,distrito i.,1
+3000,de bianchi m.s.,1
+3001,cherednichenko k.d.,1
+3002,scóccola c.g.,1
+3003,perdereau o.,1
+3004,olivieri e.,1
+3005,gonzález m.,1
+3006,coppi g.,1
+3007,couchot f.,1
+3008,d'agostino r.,1
+3009,d'alessandro g.,1
+3010,di donato a.,1
+3011,garcía b.,1
+3012,garrido x.,1
+3013,gault a.,1
+3014,giraud-héraud y.,1
+3015,guerrard e.,1
+3016,o'sullivan c.,1
+3017,haynes v.,1
+3018,korotkov a.,1
+3019,lowitz a.,1
+3020,lukovic v.,1
+3021,luterstein r.,1
+3022,may a.j.,1
+3023,mcculloch m.a.,1
+3024,medina m.c.,1
+3025,melhuish s.,1
+3026,kiselev a.v.,1
+3027,silva l.o.,1
+3028,boyd j.p.,1
+3029,gutiérrez l.,1
+3030,grossi g.,1
+3031,polteva n.a.,1
+3032,paredes-madrid l.,1
+3033,fonseca j.,1
+3034,matute a.,1
+3035,velásquez e.i.g.,1
+3036,palacio c.a.,1
+3037,vettorazzi m.,1
+3038,menéndez c.,1
+3039,andujar s.,1
+3040,albernaz a.f.,1
+3041,appignanesi g.,1
+3042,enriz r.d.,1
+3043,carrillo-betancourt r.a.,1
+3044,islas-sánchez s.r.,1
+3045,matatagui d.,1
+3046,gutierrez-herrera e.,1
+3047,agostini l.,1
+3048,feitosa s.,1
+3049,dubois a.,1
+3050,faginas-lago n.,1
+3051,barreto p.r.p.,1
+3052,amore p.,1
+3053,casassa s.,1
+3054,fernández f.m.,1
+3055,martínez g.,1
+3056,dovesi r.,1
+3057,erba a.,1
+3058,orlando r.,1
+3059,zicovich-wilson c.m.,1
+3060,civalleri b.,1
+3061,maschio l.,1
+3062,rérat m.,1
+3063,baima j.,1
+3064,collange s.,1
+3065,salustro s.,1
+3066,kirtman b.,1
+3067,avelino w.,1
+3068,marques b.l.,1
+3069,fonseca l.,1
+3070,ohlberg d.a.a.,1
+3071,medeiros-ribeiro g.,1
+3072,silva a.f.,1
+3073,popelier p.l.a.,1
+3074,buzzelli a.,1
+3075,bréelle e.,1
+3076,bordier g.,1
+3077,berger r.j.f.,1
+3078,zhu c.,1
+3079,wang y.,1
+3080,mao x.,1
+3081,luo y.,1
+3082,maciel r.f.,1
+3083,bayerl p.s.,1
+3084,kerr pinheiro m.m.,1
+3085,savasci g.,1
+3086,borges-martínez m.,1
+3087,ochsenfeld c.,1
+3088,sirakoulis g.c.,1
+3089,alves y.,1
+3090,tellez c.,1
+3091,teixeira gomes j.v.,1
+3092,cherem peixoto da silva a.,1
+3093,lamim bello m.,1
+3094,rangel rodrigues c.,1
+3095,aloise maneira corrêa santos b.,1
+3096,valenzuela d.,1
+3097,mena f.p.,1
+3098,yuan s.,1
+3099,vourkas i.,1
+3100,perez-leija a.,1
+3101,montiel ross o.h.,1
+3102,cárdenas c.,1
+3103,glowinski r.,1
+3104,juárez h.,1
+3105,braiman y.,1
+3106,raymundo marcial-romero j.,1
+3107,antonio hernández-servín j.,1
+3108,nascimento m.,1
+3109,de avila a.,1
+3110,feitosa s.d.s.,1
+3111,bardet m.,1
+3112,avila m.a.,1
+3113,bros m.,1
+3114,gaborit p.,1
+3115,diaz-caro a.,1
+3116,guillermo m.,1
+3117,miquel a.,1
+3118,cunha r.a.f.,1
+3119,sharma n.,1
+3120,toffano z.,1
+3121,dubois f.,1
+3122,baselmans j.,1
+3123,u’ren a.b.,1
+3124,bleurvacq n.,1
+3125,hoang d.t.,1
+3126,limão de oliveira r.c.,1
+3127,aquino-torres e.,1
+3128,cordero-pensado v.,1
+3129,alvarado-rodríguez j.g.,1
+3130,thangarasu p.,1
+3131,hendy a.s.,1
+3132,de staelen r.h.,1
+3133,salatino m.,1
+3134,bélier b.,1
+3135,maestre s.,1
+3136,damasceno r.l.c.,1
+3137,prêle d.,1
+3138,thermeau j.p.,1
+3139,henrot-versillé s.,1
+3140,barbarán g.,1
+3141,battaglia p.,1
+3142,battistelli e.,1
+3143,baù a.,1
+3144,bergé l.,1
+3145,bernard j.-p.,1
+3146,de oliveira g.l.,1
+3147,do nascimento j.c.,1
+3148,busch k.,1
+3149,mateos h.,1
+3150,lita a.e.,1
+3151,nam s.w.,1
+3152,mirin r.p.,1
+3153,gerrits t.,1
+3154,arana-daniel n.,1
+3155,alcalde bessia f.,1
+3156,pérez m.,1
+3157,lipovetzky j.,1
+3158,piunno n.a.,1
+3159,sidelnik i.,1
+3160,sabry a.,1
+3161,blostein j.j.,1
+3162,sofo haro m.,1
+3163,nava j.j.g.,1
+3164,sandoval e.l.,1
+3165,samana a.r.,1
+3166,ambrosio p.e.,1
+3167,dominguez d.s.,1
+3168,de gennaro r.,1
+3169,liyanage l.,1
+3170,ribeiro a.a.,1
+3171,morejón l.,1
+3172,berge l.,1
+3173,chang s.y.,1
+3174,gomes a.,1
+3175,macieira r.,1
+3176,silva e.,1
+3177,soares s.,1
+3178,arantes p.r.,1
+3179,pedebos c.,1
+3180,polêto m.d.,1
+3181,pol-fachin l.,1
+3182,chávez m.a.l.,1
+3183,henríquez f.r.,1
+3184,andrade m.g.,1
+3185,de lima marquezino f.,1
+3186,figueiredo d.r.,1
+3187,moura a.l.,1
+3188,pereira a.f.,1
+3189,carvalho j.f.,1
+3190,de oliveira i.,1
+3191,dos santos p.v.,1
+3192,varandas a.j.c.,1
+3193,pérez del valle c.,1
+3194,de castro j.s.,1
+3195,silva d.,1
+3196,di filippo j.i.,1
+3197,cavasotto c.n.,1
+3198,white a.j.,1
+3199,gessler f.,1
+3200,laborde w.r.,1
+3201,hernandez j.n.,1
+3202,si x.,1
+3203,dupertuis m.-a.,1
+3204,macris n.,1
+3205,valdés a.,1
+3206,de souza r.r.,1
+3207,piqueira j.r.c.,1
+3208,govind n.,1
+3209,vieira l.l.a.,1
+3210,ruiz s.v.d.,1
+3211,minga b.f.a.,1
+3212,soto j.d.c.,1
+3213,zambrano e.f.m.,1
+3214,de araujo i.c.s.,1
+3215,camponogara a.,1
+3216,almeida a.a.a.d.,1
+3217,alvarez-ramírez f.,1
+3218,ruiz-morales y.,1
+3219,silva f.t.,1
+3220,rocha-santos a.,1
+3221,firme c.l.,1
+3222,batista rosa silva j.,1
+3223,candeias f.s.,1
+3224,da silva s.c.,1
+3225,vicentini f.c.,1
+3226,assumpção m.h.m.t.,1
+3227,timmers l.f.s.m.,1
+3228,caceres r.a.,1
+3229,de souza o.n.,1
+3230,field m.j.,1
+3231,da silva j.r.,1
+3232,teixeira v.e.,1
+3233,touil a.,1
+3234,manjarres garcia a.,1
+3235,osorio quero c.,1
+3236,rangel-magdaleno j.,1
+3237,martinez-carranza j.,1
+3238,durini romero d.,1
+3239,lima neto j.x.,1
+3240,bezerra k.s.,1
+3241,barbosa e.d.,1
+3242,manzoni v.,1
+3243,filho a.h.s.,1
+3244,freitas m.p.,1
+3245,de souza l.a.,1
+3246,joshi n.,1
+3247,anjos i.c.,1
+3248,belchior j.c.,1
+3249,matera j.m.,1
+3250,errico l.a.,1
+3251,gil rebaza a.v.,1
+3252,fernandez v.i.,1
+3253,lamas c.a.,1
+3254,gupta c.,1
+3255,jain a.,1
+3256,lópez-sandoval d.,1
+3257,martins f.a.,1
+3258,cobos-lozada c.-a.,1
+3259,"pliego j.r., jr.",1
+3260,riveros j.m.,1
+3261,hu c.-k.,1
+3262,cui j.-m.,1
+3263,huang y.-f.,1
+3264,soares-pinto d.o.,1
+3265,li c.-f.,1
+3266,guo g.-c.,1
+3267,bosch s.,1
+3268,chan c.l.,1
+3269,casati r.,1
+3270,schwaller n.,1
+3271,salum j.m.,1
+3272,scoccola c.g.,1
+3273,supanitsky a.d.,1
+3274,tomasi m.,1
+3275,vigano d.,1
+3276,wright m.,1
+3277,cação r.,1
+3278,cortez l.,1
+3279,de farias i.,1
+3280,kozyreff e.,1
+3281,policarpo r.c.,1
+3282,nery a.s.,1
+3283,albuquerque r.d.o.,1
+3284,samaniego-rojas j.d.,1
+3285,hernández-segura l.-i.,1
+3286,lópez-sosa l.,1
+3287,delgado-venegas r.i.,1
+3288,gomez b.,1
+3289,lambry j.-c.,1
+3290,mineva t.,1
+3291,zúñiga-gutiérrez b.a.,1
+3292,rasztocky e.,1
+3293,platino m.,1
+3294,perciballi m.,1
+3295,gilles v.,1
+3296,bernard j.-ph.,1
+3297,cobos cerutti a.c.,1
+3298,dheilly s.,1
+3299,duca c.,1
+3300,ferreyro l.p.,1
+3301,fracchia d.,1
+3302,ganga k.m.,1
+3303,garcia b.,1
+3304,garcia redondo m.e.,1
+3305,giraud-heraud y.,1
+3306,oriol c.,1
+3307,gomez berisso m.,1
+3308,gonzalez m.,1
+3309,hampel m.r.,1
+3310,henrot-versille s.,1
+3311,may a.,1
+3312,mcculloch m.,1
+3313,melo d.,1
+3314,nati f.,1
+3315,olivicri e.,1
+3316,geudtner g.,1
+3317,contreras s.,1
+3318,gil-villegas a.,1
+3319,luz l.o.,1
+3320,prati r.c.,1
+3321,vingre da silva mota g.,1
+3322,costa f.l.p.,1
+3323,barbieri c.,1
+3324,lotufo d.p.,1
+3325,minussi c.r.,1
+3326,guardia g.g.l.,1
+3327,moreira i.g.s.,1
+3328,silva p.a.r.l.,1
+3329,de almeida j.m.,1
+3330,hirsch j.g.,1
+3331,nguyen n.l.,1
+3332,colonna n.,1
+3333,chen w.,1
+3334,rodrigues miranda c.,1
+3335,pasquarello a.,1
+3336,marzari n.,1
+3337,franco d.g.b.,1
+3338,steiner m.t.a.,1
+3339,riedel gårding e.,1
+3340,mucelini j.,1
+3341,gastelum m.,1
+3342,díaz t g.j.,1
+3343,muhammad k.,1
+3344,barrios h c.j.,1
+3345,steffenel l.a.,1
+3346,couturier j.f.,1
+3347,arya a.,1
+3348,botelho l.,1
+3349,cañete f.,1
+3350,kapadia d.,1
+3351,salehi ö.,1
+3352,mehmood i.,1
+3353,peng j.,1
+3354,solis-labastida a.f.g.,1
+3355,bhowmik d.,1
+3356,maity d.,1
+3357,useche d.h.,1
+3358,giraldo-carvajal a.,1
+3359,zuluaga-bucheli h.m.,1
+3360,tibouchi m.,1
+3361,arango j.j.,1
+3362,rivera-ruiz m.a.,1
+3363,mendez-vazquez a.,1
+3364,soares-rachetti v.p.,1
+3365,alonso de armiño d.j.,1
+3366,vasant p.,1
+3367,mahdi f.p.,1
+3368,gutieirrez-d e.a.,1
+3369,de la hidalga f.j.,1
+3370,domingues j.s.,1
+3371,da rosa l.s.,1
+3372,de souza marques f.,1
+3373,fernández-menchero l.,1
+3374,conroy a.c.,1
+3375,ballance c.p.,1
+3376,badnell n.r.,1
+3377,mitnik d.m.,1
+3378,gorczyca t.w.,1
+3379,seaton m.j.,1
+3380,biekofsky r.r.,1
+3381,pirôpo m.,1
+3382,moraes f.,1
+3383,santos f.a.n.,1
+3384,gatti l.,1
+3385,herrera-gonzalez m.,1
+3386,herrera-may a.l.,1
+3387,diaz-sanchez a.,1
+3388,morales-gonzalez e.a.,1
+3389,lopez-l o.,1
+3390,hollmann e.h.,1
+3391,abs da cruz a.v.,1
+3392,haeusler e.h.,1
+3393,rubio-noriega r.e.,1
+3394,prosopio-galarza r.,1
+3395,oliveira l.p.,1
+3396,rahman b.m.a.,1
+3397,hernandez-figueroa h.e.,1
+3398,garcía-cadena c.a.,1
+3399,de j. aguilar-uribe a.,1
+3400,rojas-ochoa l.f.,1
+3401,saraiva l.,1
+3402,costa v.,1
+3403,veras t.m.l.,1
+3404,kalinowski m.,1
+3405,ternavisk r.r.,1
+3406,duarte v.s.,1
+3407,custódio j.m.f.,1
+3408,hernández g.a.,1
+3409,romero j.a.,1
+3410,camargo a.j.,1
+3411,sousa r.s.,1
+3412,dos santos p.g.m.,1
+3413,martinez-castillo j.,1
+3414,rivero-angeles m.e.,1
+3415,padilha frança r.,1
+3416,cianni l.,1
+3417,hernandez m.c.,1
+3418,salinas-rosales m.,1
+3419,landa r.s.,1
+3420,ortiz o.o.,1
+3421,garcía j.m.g.,1
+3422,villanueva-polanco r.,1
+3423,angulo-madrid e.,1
+3424,bastos d.c.,1
+3425,brasil kowada l.a.,1
+3426,araujo d.,1
+3427,lima a.h.,1
+3428,batista p.h.j.,1
+3429,de vita d.,1
+3430,rosini f.,1
+3431,leitão a.,1
+3432,lacalle j.,1
+3433,pozo-coronado l.m.,1
+3434,cesar t.f.,1
+3435,santos p.e.,1
+3436,cabalar p.,1
+3437,saucedo-estrada o.,1
+3438,araújo j.d.o.,1
+3439,borges monteiro a.c.,1
+3440,dahab r.,1
+3441,arthur r.,1
+3442,iano y.,1
+3443,rodrĺguez-borbón j.m.,1
+3444,kalantar a.,1
+3445,oviedo m.b.,1
+3446,najjar w.,1
+3447,marcial-romero j.r.,1
+3448,hernandez-servin j.a.,1
+3449,da silva j.p.,1
+3450,rodríguez castañeda c.a.,1
+3451,pereira p.r.m.,1
+3452,chattopadhyay s.,1
+3453,oh j.,1
+3454,tatapudi s.,1
+3455,mani g.t.,1
+3456,hu h.,1
+3457,payares e.d.,1
+3458,rosales-guzmán c.,1
+3459,hu x.-b.,1
+3460,rodríguez-fajardo v.,1
+3461,sánchez c.g.,1
+3462,frauenheim t.,1
+3463,hernández f.j.,1
+3464,große d.,1
+3465,lins r.d.,1
+3466,lepine j.,1
+3467,fourie c.,1
+3468,shi s.-c.,1
+3469,baryshev a.,1
+3470,rudakov k.,1
+3471,filippenko l.,1
+3472,fominsky m.,1
+3473,koshelets v.,1
+3474,both m.,1
+3475,gomes a.t.a.,1
+3476,reis junior p.,1
+3477,hentges t.i.,1
+3478,reis m.a.f.,1
+3479,torres n.n.,1
+3480,garcia j.c.s.,1
+3481,guancha e.a.v.,1
+3482,fung c.,1
+3483,ramos t.n.,1
+3484,champagne b.,1
+3485,soares t.a.,1
+3486,galheigo m.m.,1
+3487,agostini f.p.,1
+3488,faz-mendoza a.,1
+3489,marmolejo-saucedo j.a.,1
+3490,litvinchev i.,1
+3491,aguilar r.r.,1
+3492,watada j.,1
+3493,herath u.,1
+3494,tavadze p.,1
+3495,he x.,1
+3496,singh s.,1
+3497,muñoz f.,1
+3498,gamboa-rosales n.k.,1
+3499,poleto m.d.,1
+3500,castorena-robles a.,1
+3501,cobo m.j.,1
+3502,castaneda-miranda r.,1
+3503,lopez-robles j.r.,1
+3504,sousa r.b.,1
+3505,pereira e.j.s.,1
+3506,cipolletti m.p.,1
+3507,rusu v.h.,1
+3508,santos d.e.s.,1
+3509,acasiete f.,1
+3510,chagas b.,1
+3511,medrano c.r.,1
+3512,da cunha e.f.f.,1
+3513,aolita l.,1
+3514,carine j.,1
+3515,gomez s.a.,1
+3516,obregon g.f.,1
+3517,gomez e.s.,1
+3518,figueroa m.,1
+3519,de castro a.a.,1
+3520,polisel d.a.,1
+3521,pereira b.t.l.,1
+3522,kuca k.,1
+3523,gómez e.s.,1
+3524,nepovimova e.,1
+3525,ramalho t.c.,1
+3526,dong t.,1
+3527,gu f.,1
+3528,pérez-delgado c.a.,1
+3529,perez-gonzalez h.g.,1
+3530,bonafé f.p.,1
+3531,aradi b.,1
+3532,hourahine b.,1
+3533,walborn s.p.,1
+3534,branciard c.,1
+3535,araujo i.c.s.,1
+3536,ware d.,1
+3537,moniz p.v.,1
+3538,jalalzadeh s.,1
+3539,diniz a.l.,1
+3540,da silva d.i.r.,1
+3541,lembke c.g.,1
+3542,costa m.d.-b.l.,1
+3543,ten-caten f.,1
+3544,vilela r.d.,1
+3545,menossi m.,1
+3546,endres l.,1
+3547,araújo m.,1
+3548,souza g.m.,1
+3549,gonzález-soria b.,1
+3550,anaya-morales a.,1
+3551,taddei m.m.,1
+3552,cariñe j.,1
+3553,martínez d.,1
+3554,garcía t.,1
+3555,guerrero n.,1
+3556,abbott a.a.,1
+3557,a. ostfeld,1
